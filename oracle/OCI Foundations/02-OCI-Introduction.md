@@ -1,6 +1,25 @@
-# OCI Overview
-
 # OCI Architecture
+
+## Regions
+
+    A region is a localized geographic area, composed of one or more Availability Domains. Oracle Cloud Infrastructure resources are either region-specific, such as a virtual cloud network.
+
+## Availability Domain (AD)
+
+    One or more data centers located within a region. **A region is composed of one o more Availability Domains**.
+    (Contigência Geográfica)
+
+## Fault Domain
+
+    Structure within an Availability Domain. Each AD contains three FD's, and each FD's has its own link, thus establishing high availability between FD's
+
+## Compartment
+
+    A compartment is a collection of related resources (such as instances, virtual cloud networks, block volumes) that can be accessed only by certain groups that have been given permission by an administrator.
+    
+    Compartments allow you to organize and control access to your cloud resources. 
+
+    Oracle creates your tenancy, which is the root compartment that holds all your cloud resources. You then create additional compartments within the tenancy (root compartment) and corresponding policies to control access to the resources in each compartment. When you create a cloud resource such as an instance, block volume, or cloud network, you must specify to which compartment you want the resource to belong.
 
 # Questions
 
