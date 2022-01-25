@@ -18,4 +18,7 @@
 # Extra
 
 [#BondeDoOCI - Workshop completo rumo a certificação Oracle Cloud LinuxTips](https://www.youtube.com/watch?v=jWG3gVf2YWE)
-[University Learning]()
+
+[LEARN OCI Foundation Associate](https://mylearn.oracle.com/learning-path/become-an-oci-foundation-associate/35644/98057)
+
+[University Learning - Cloud Infrastructure](https://education.oracle.com/pt_BR/learn/oracle-cloud-infrastructure/pPillar_640/)
