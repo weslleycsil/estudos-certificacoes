@@ -2,6 +2,7 @@
 Repositório de material de Estudo para Certificações feitas por mim.
 
 [Oracle Cloud Infrastructure Foundations](#) (estudando, disponível já alguns resumos)
+
 [Oracle Cloud Infrastructure Associate](#) (Em Breve)
 
 Meus Projetos: ⤵️
