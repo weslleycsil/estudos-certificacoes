@@ -1,7 +1,7 @@
 # Material de estudos para Certificações
 Repositório de material de Estudo para Certificações feitas por mim.
 
-[Oracle Cloud Infrastructure Foundations](#) (estudando, disponível já alguns resumos)
+[Oracle Cloud Infrastructure Foundations](https://github.com/weslleycsil/estudos-certificacoes/tree/main/oracle/OCI%20Foundations) (estudando, disponível já alguns resumos)
 
 [Oracle Cloud Infrastructure Associate](#) (Em Breve)
 
