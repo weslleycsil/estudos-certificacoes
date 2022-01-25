@@ -1,6 +1,6 @@
 # Oracle Cloud Infrastructure Foundations
 
-- [02 - OCI Introduction]()
+- [02 - OCI Introduction](02-OCI-Introduction.md)
 - [03 - Oracle Cloud Free Tier Account]()
 - [04 - Identity and Access Management]()
 - [05 - Networking]()
