@@ -11,7 +11,7 @@ One or more data centers located within a region. **A region is composed of one 
 
 ## Fault Domain
 
-Structure within an Availability Domain. Each AD contains three FD's, and each FD's has its own link, thus establishing high availability between FD's
+A logical grouping of hardware and infrastructure within an Availability Domain. Each AD contains three FD's, and each FD's has its own link, thus establishing high availability between FD's
 
 ## Compartment
 
