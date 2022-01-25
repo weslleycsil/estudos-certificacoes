@@ -1,4 +1,4 @@
-# Oracle Cloud Infrastructure Foundations
+# Oracle Cloud Infrastructure Foundations Associate
 
 - [02 - OCI Introduction](02-OCI-Introduction.md)
 - [03 - Oracle Cloud Free Tier Account]()
