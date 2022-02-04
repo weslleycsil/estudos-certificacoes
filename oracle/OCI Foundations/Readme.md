@@ -1,8 +1,8 @@
 # Oracle Cloud Infrastructure Foundations Associate
 
 - [02 - OCI Introduction](02-OCI-Introduction.md)
-- [03 - Oracle Cloud Free Tier Account]()
-- [04 - Identity and Access Management]()
+- 03 - Oracle Cloud Free Tier Account
+- [04 - Identity and Access Management](04-Identity-and-Access-Management.md)
 - [05 - Networking]()
 - [06 - Compute]()
 - [07 - Storage]()
