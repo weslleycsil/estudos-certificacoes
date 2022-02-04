@@ -50,6 +50,7 @@ Compartments are Global, Belong to Multiple Regions.
 Set Quotas and Budgets on Compartment.
 
 Compartments -> Six Levels of Nesting (aninhamento)
+
 Groups + Policies = Access to Compartments (Control Access to resources)
 
 # Questions
@@ -57,34 +58,29 @@ Groups + Policies = Access to Compartments (Control Access to resources)
 Which statement is true about OCI Identity and Access Management (IAM)?
 - It enables only authorization for the tenancy.
 - It enables bring-your-own-devices.
-- **It is used to control access to resources.**
+- **It is used to control access to resources.** -> IAM lets you control who has access to your cloud resources.
 - It enables only authentication for the tenancy.
--> IAM lets you control who has access to your cloud resources.
 
 Which is NOT a valid method for authenticating a Principal in OCI Identity and Access Management (IAM) service?
 - API Signing Key
-- **OCI Vault Master Encryption Keys**
+- **OCI Vault Master Encryption Keys** -> Vault is not a valid authentication method
 - Console user name, Password
 - Auth Tokens
--> Vault is not a valid authentication method
 
 How is a resource in OCI identified?
 - Tenancy ID
-- **OCID**
+- **OCID** -> Most types of Oracle Cloud Infrastructure resources have a unique, Oracle-assigned identifier called an Oracle Cloud ID (OCID).
 - Username
 - Compartment Name
--> Most types of Oracle Cloud Infrastructure resources have a unique, Oracle-assigned identifier called an Oracle Cloud ID (OCID).
 
 Which feature of OCI Identity and Access Management (IAM) service specifies authorization for various actions for authenticated Principals?
 - Role
-- **Policy**
+- **Policy** -> IAM Policies are used to specify authorization.
 - Compartment
 - Group
--> IAM Policies are used to specify authorization.
 
 Which is NOT a valid statement regarding OCI Compartments?
-- **Compartments are restricted to a single region.**
+- **Compartments are restricted to a single region.** -> Compartments are global and not tied to a specific region
 - Each resource belongs to a single compartment.
 - Resources can interact with other resources in different compartments.
 - You can give group of users access to compartments by writing policies.
--> Compartments are global and not tied to a specific region
