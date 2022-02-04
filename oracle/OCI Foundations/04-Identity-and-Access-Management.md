@@ -4,7 +4,7 @@
 
 Users -> Groups -> Policies -> Compartments -> Resources
 
-<img src="images/oci-iam-01.png"/>
+<img src="images/oci-iam-01.png" width="700"/>
 
 ## How To identify Resources?
 
@@ -38,7 +38,7 @@ Allow <group_name> to <verb> <resource-type> in <location> where <conditions>
 
 ## Compartments
 
-<img src="images/oci-iam-02.png"/>
+<img src="images/oci-iam-02.png" width="700"/>
 
 Root Compartment -> All Resources of your Account
 Compartment -> Isolation of resources
