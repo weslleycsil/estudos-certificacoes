@@ -17,7 +17,7 @@ ocid.<resource type>.<realm>.[Region].[.FutureUse].<UniqueID>
 AuthN -> Autentication (Autenticação)
 Identify who you are
 
-- API Siging Key
+- API  Signing Key
 - Auth Token
 - User and Password
 
