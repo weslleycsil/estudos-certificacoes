@@ -44,6 +44,7 @@ Allow <group_name> to <verb> <resource-type> in <location> where <conditions>
 <img src="images/oci-iam-02.png" width="700"/>
 
 Root Compartment -> All Resources of your Account
+
 Compartment -> Isolation of resources
 
 Each resource belongs to a single compartment.
