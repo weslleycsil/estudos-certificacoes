@@ -9,8 +9,9 @@ Users -> Groups -> Policies -> Compartments -> Resources
 ## How To identify Resources?
 
 OCI Resources -> OCID - Oracle Cloud ID
+````
 ocid.<resource type>.<realm>.[Region].[.FutureUse].<UniqueID>
-
+````
 ## Authentication in OCI
 
 AuthN -> Autentication (Autenticação)
@@ -34,7 +35,9 @@ Verbs
 *Everything is negated by default*
 
 Eg.
+````
 Allow <group_name> to <verb> <resource-type> in <location> where <conditions>
+````
 
 ## Compartments
 
