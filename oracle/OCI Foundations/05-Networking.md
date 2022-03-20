@@ -12,34 +12,34 @@ Connections -> Internet Gateway
 
 ## Internet Gateway
 
--> Direct internet connection
--> Two-way traffic
+* Direct internet connection
+* Two-way traffic
 
 ## NAT Gateway - Network Adress Translate Gateway
 
--> Traffic one-way
+* Traffic one-way
 
 ## Service Gateway
 
--> Gateway to oracle cloud services such as object storage and others
+Gateway to oracle cloud services such as object storage and others
 (public services OCI)
 
 ## Dynamic Routing Gateway
 
 Interconnect VCN's
 
--> VPN's Site-to-Site
--> Network on-premisses
--> Fastconnect
+* VPN's Site-to-Site
+* Network on-premisses
+* Fastconnect
 
 
 # OCI Route
 
 ## Route-Tables
 
--> Internet
--> On-Premisses Network
--> Peered VCN's
+* Internet
+* On-Premisses Network
+* Peered VCN's
 
 Destination CIDR, Route Target (Next Hop)
 Traffic between public/private subnets is not routed
@@ -60,38 +60,38 @@ Maximum of 300 VCN's per DRGv2
 
 ## Secure Lists
 
--> Firewal Rules
--> Rules of traffic
+* Firewal Rules
+* Rules of traffic
 
 In VCN's
 
 ## Network Security Groups - NSG
 
--> Applied in interfaces
--> Possibility of two or more instances in the same subnet with different rules
+* Applied in interfaces
+* Possibility of two or more instances in the same subnet with different rules
 
 # Load Balancer
 
--> High Availability
--> Scalability
+* High Availability
+* Scalability
 
 ## Layer 7
 
--> HTTP/HTTPS
--> Scalable-Flexible or Dynamic Shapes
--> Public/Private
+* HTTP/HTTPS
+* Scalable-Flexible or Dynamic Shapes
+* Public/Private
 
 ## Network Load Balancer L4
 
--> Layer 4 - TCP/UDP/ICMP
--> Faster, less latency
--> Public/Private
+* Layer 4 - TCP/UDP/ICMP
+* Faster, less latency
+* Public/Private
 
 ## Network Load Balancer L3
 
--> Layer 3
--> Faster, less latency
--> Public/Private
+* Layer 3
+* Faster, less latency
+* Public/Private
 
 
 # Questions
