@@ -6,9 +6,10 @@
 * Scalable
 * Secure
 
-Connections -> Internet Gateway
-            -> Nat Gateway
-            -> Service Gateway
+Connections:
+* Internet Gateway
+* Nat Gateway
+* Service Gateway
 
 ## Internet Gateway
 
@@ -53,7 +54,7 @@ between VCN's in different regions.
 ## DRGv2 Dynamic Routing Gateway
 
 <img src="images/drgv2.png" width="700"/>
-
+VCN's interconnection, dynamic not static.
 Maximum of 300 VCN's per DRGv2
 
 # VCN Security
