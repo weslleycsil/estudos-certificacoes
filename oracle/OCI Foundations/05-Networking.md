@@ -17,12 +17,15 @@ Connections:
 * Nat Gateway
 * Service Gateway
 
-##Types of Public IPs
+## Types of Public IPs
 
 There are two types of public IPs:
 
-Ephemeral: Think of it as temporary and existing for the lifetime of the instance.
-Reserved: Think of it as persistent and existing beyond the lifetime of the instance it's assigned to. You can unassign it and then reassign it to another instance whenever you like. Exception: reserved public IPs on public load balancers
+Ephemeral:
+* Think of it as temporary and existing for the lifetime of the instance.
+
+Reserved:
+* Think of it as persistent and existing beyond the lifetime of the instance it's assigned to. You can unassign it and then reassign it to another instance whenever you like. Exception: reserved public IPs on public load balancers
 
 
 ## Internet Gateway
