@@ -6,6 +6,12 @@
 * Scalable
 * Secure
 
+Reserve 3 address for Network, Gateway and Broadcast
+
+Limits:
+* 200 VCN's per region
+* 300 subnets per VCN
+
 Connections:
 * Internet Gateway
 * Nat Gateway
