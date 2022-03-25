@@ -40,7 +40,7 @@ Preemptible VM's
 
 ## Instances
 
-<img src="images/compute01.png" width="700"/>
+<img src="images/compute-01.png" width="700"/>
 
 ## Scale
 
