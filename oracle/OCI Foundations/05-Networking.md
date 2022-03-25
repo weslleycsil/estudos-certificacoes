@@ -17,6 +17,14 @@ Connections:
 * Nat Gateway
 * Service Gateway
 
+##Types of Public IPs
+
+There are two types of public IPs:
+
+Ephemeral: Think of it as temporary and existing for the lifetime of the instance.
+Reserved: Think of it as persistent and existing beyond the lifetime of the instance it's assigned to. You can unassign it and then reassign it to another instance whenever you like. Exception: reserved public IPs on public load balancers
+
+
 ## Internet Gateway
 
 * Direct internet connection
@@ -70,11 +78,14 @@ Maximum of 300 VCN's per DRGv2
 * Firewal Rules
 * Rules of traffic
 
-In VCN's
+Applied In VCN's
+
+* Statefull -> rules auto ingress/egress
+* Stateless -> rules for ingress, rules for egress
 
 ## Network Security Groups - NSG
 
-* Applied in interfaces
+* Applied in interfaces (vNics)
 * Possibility of two or more instances in the same subnet with different rules
 
 # Load Balancer
