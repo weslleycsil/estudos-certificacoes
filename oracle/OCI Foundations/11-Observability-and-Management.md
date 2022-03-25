@@ -1,5 +1,7 @@
 # Observability & Management
 
+<img src="images/log-01.png" width="500"/>
+
 - Integrated Platform
 - Multicloud, on-premises
 - Cross-tier View
