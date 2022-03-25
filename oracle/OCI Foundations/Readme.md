@@ -9,9 +9,9 @@
 - [08 - Database](08-Database.md)
 - [09 - Security](09-Security.md)
 - [10 - App Dev]()
-- [11 - Observability and Management]()
-- [12 - Analytics anda AI]()
-- [13 - Hybrid]()
+- [11 - Observability and Management](11-Observability-and-Management.md)
+- [12 - Analytics and AI](12-Analytics-and-AI.md)
+- [13 - Hybrid](13-Hybrid.md)
 - [14 - Governance and Administration]()
 - [15 - SLA and Support]()
 
