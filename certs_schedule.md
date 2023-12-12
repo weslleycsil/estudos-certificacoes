@@ -9,4 +9,4 @@
 | Network   |      -     | VMware           | VCTA-NV                                              | -          | -            |
 | Network   |      -     | VMware           | VCP-NV                                               | -          | -            |
 | Infra     |      -     | VMware           | VCTA-DCV                                             | 08/12/2023 |      Sim     |
-| Infra     |      -     | VMware           | VCP-DCV                                              | -          | -            |
+| Infra     |      -     | VMware           | VCP-DCV                                              |  02/2024   | -            |
