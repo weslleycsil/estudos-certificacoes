@@ -3,7 +3,11 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [Oracle Cloud Infrastructure Foundations](https://github.com/weslleycsil/estudos-certificacoes/tree/main/oracle/OCI%20Foundations) (estudando, disponível já alguns resumos)
 
-[Oracle Cloud Infrastructure Associate](#) (Em Breve)
+[VMWare VCTA-DCV](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcta-dcv) (Em Construção)
+
+[VMWare VCP-DCV](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcp-dcv) (Em Construção)
+
+[VMWare VCTA-NV](#) (Em Breve)
 
 Meus Projetos: ⤵️
 </p>
