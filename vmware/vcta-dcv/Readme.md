@@ -15,6 +15,20 @@ No diretorio summaries estão os resumos feitos para cada section disponivel no 
 - [Section 7 - Administrative and Operational Tasks](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcta-dcv/books/Section%207%20-%20Administrative%20and%20Operational%20Tasks.pdf)
 - [Summary 7 - Administrative and Operational Tasks](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcta-dcv/summaries/7.md)
 
+# Informações importantes
+
+Prova realizada dia 08/12/2023
+
+A Prova VCTA-DCV não é um bicho de 7 cabeças, você estudando e se dedicando fazendo resumos e simulados é mais do que suficiente para passar.
+Sempre digo que é uma prova a nível de operador, ou seja, se você opera ambientes VMware no seu dia a dia, você já tem mais de 50% de chance de passar de forma fácil.
+
+Deixarei abaixo alguns materiais extras e vou atualizando aqui conforme for encontrando mais materiais bons.
+
+Tenho um video sobre essa certificação e também um post no meu blog também, então confiram esse conteúdo e qualquer dúvida estou à disposição!
+
+[Certificação VCTA-DCV da VMWare](https://infra.expert/certificacao-vcta-dcv-da-vmware/)
+[VMware VCTA-DCV Certificação - Datacenter Virtualization 2023](https://www.youtube.com/watch?v=do8AkThBDLs)
+
 # Extras
 
 [Guia Gratuito para a Prova](https://www.vladan.fr/free-vmware-vcta-study-guide/)
