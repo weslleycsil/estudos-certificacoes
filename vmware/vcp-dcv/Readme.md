@@ -21,8 +21,8 @@ Prova a ser realizada no dia 29/02/2024
 
 ## Summaries
 - Summary 1 - Course Introduction
-- [Summary 2 - vSphere and Virtualization Overview](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/2.md)
-- [Summary 3 - Installing and Configuring ESXi](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/3.md)
+- [Summary 2 - vSphere and Virtualization Overview](vmware/vcp-dcv/summaries/2.md)
+- [Summary 3 - Installing and Configuring ESXi](summaries/3.md)
 - [Summary 4 - Deploying and Configuring vCenter](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/4.md)
 - [Summary 5 - Configuring vSphere Networking](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/5.md)
 - [Summary 6 - Configuring vSphere Storage](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/6.md)
