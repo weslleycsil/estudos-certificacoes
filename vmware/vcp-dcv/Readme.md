@@ -21,27 +21,27 @@ Prova a ser realizada no dia 29/02/2024
 
 ## Summaries
 - Summary 1 - Course Introduction
-- [Summary 2 - vSphere and Virtualization Overview](vmware/vcp-dcv/summaries/2.md)
+- [Summary 2 - vSphere and Virtualization Overview](summaries/2.md)
 - [Summary 3 - Installing and Configuring ESXi](summaries/3.md)
-- [Summary 4 - Deploying and Configuring vCenter](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/4.md)
-- [Summary 5 - Configuring vSphere Networking](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/5.md)
-- [Summary 6 - Configuring vSphere Storage](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/6.md)
-- [Summary 7 - Deploying Virtual Machines](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/7.md)
-- [Summary 8 - Managing Virtual Machines](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/8.md)
-- [Summary 9 - Deploying and Configuring vSphere Clusters](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/9.md)
-- [Summary 10 - Managing the vSphere Lifecycle](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/summaries/10.md)
+- [Summary 4 - Deploying and Configuring vCenter](summaries/4.md)
+- [Summary 5 - Configuring vSphere Networking](summaries/5.md)
+- [Summary 6 - Configuring vSphere Storage](summaries/6.md)
+- [Summary 7 - Deploying Virtual Machines](summaries/7.md)
+- [Summary 8 - Managing Virtual Machines](summaries/8.md)
+- [Summary 9 - Deploying and Configuring vSphere Clusters](summaries/9.md)
+- [Summary 10 - Managing the vSphere Lifecycle](summaries/10.md)
 
 ## Questions
 - Questions 1 - Course Introduction
-- [Questions 2 - vSphere and Virtualization Overview](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/2.md)
-- [Questions 3 - Installing and Configuring ESXi](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/3.md)
-- [Questions 4 - Deploying and Configuring vCenter](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/4.md)
-- [Questions 5 - Configuring vSphere Networking](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/5.md)
-- [Questions 6 - Configuring vSphere Storage](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/6.md)
-- [Questions 7 - Deploying Virtual Machines](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/7.md)
-- [Questions 8 - Managing Virtual Machines](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/8.md)
-- [Questions 9 - Deploying and Configuring vSphere Clusters](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/9.md)
-- [Questions 10 - Managing the vSphere Lifecycle](https://github.com/weslleycsil/estudos-certificacoes/blob/main/vmware/vcp-dcv/questions/10.md)
+- [Questions 2 - vSphere and Virtualization Overview](questions/2.md)
+- [Questions 3 - Installing and Configuring ESXi](questions/3.md)
+- [Questions 4 - Deploying and Configuring vCenter](questions/4.md)
+- [Questions 5 - Configuring vSphere Networking](questions/5.md)
+- [Questions 6 - Configuring vSphere Storage](questions/6.md)
+- [Questions 7 - Deploying Virtual Machines](questions/7.md)
+- [Questions 8 - Managing Virtual Machines](questions/8.md)
+- [Questions 9 - Deploying and Configuring vSphere Clusters](questions/9.md)
+- [Questions 10 - Managing the vSphere Lifecycle](questions/10.md)
 
 # Extras
 
