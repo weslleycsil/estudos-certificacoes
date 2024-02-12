@@ -5,7 +5,7 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [VMWare VCTA-DCV](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcta-dcv) (Em Construção)
 
-[VMWare VCP-DCV](https://github.com/weslleycsil/estudos-certificacoes/tree/main/vmware/vcp-dcv) (Em Construção)
+[VMWare VCP-DCV](vmware/vcp-dcv) (Em Construção)
 
 [VMWare VCTA-NV](#) (Em Breve)
 
