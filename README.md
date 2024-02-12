@@ -9,6 +9,10 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [VMWare VCTA-NV](#) (Em Breve)
 
+[Cisco CCNA 200-301](#) (Em Breve)
+
+Acompanhe o [Calendário das certificações](certs_schedule.md) e fique por dentro dos meus movimentos de estudo.
+
 Meus Projetos: ⤵️
 </p>
 
