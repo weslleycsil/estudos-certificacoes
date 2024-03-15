@@ -17,7 +17,7 @@ Se inscreva no Blog, Instagram e no Youtube!
 
 # Informações importantes
 
-Prova a ser realizada no dia 29/02/2024
+Prova a ser realizada no dia 01/04/2024
 
 ## Summaries
 - Summary 1 - Course Introduction
