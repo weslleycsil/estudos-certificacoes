@@ -7,7 +7,7 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [VMWare VCP-DCV](vmware/vcp-dcv) (Em Construção)
 
-[VMWare VCTA-NV](#) (Em Breve)
+[VMWare VCTA-NV](vmware/vcta-nv) (Em Construção)
 
 [Cisco CCNA 200-301](#) (Em Breve)
 
