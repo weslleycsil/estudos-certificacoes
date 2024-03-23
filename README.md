@@ -3,7 +3,7 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [Oracle Cloud Infrastructure Foundations](oracle/OCI%20Foundations) (incompleto, disponível alguns resumos)
 
-[VMWare VCTA-DCV](vmware/vcta-dcv) (Em Construção)
+[VMWare VCTA-DCV](vmware/vcta-dcv)
 
 [VMWare VCP-DCV](vmware/vcp-dcv) (Em Construção)
 
