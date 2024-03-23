@@ -1,6 +1,6 @@
 # Certificações da VMWare
 
-[VMWare VCTA-DCV](vcta-dcv) (Em Construção) Feita em: 08/12/2023
+[VMWare VCTA-DCV](vcta-dcv) Feita em: 08/12/2023
 
 [VMWare VCP-DCV](vcp-dcv) (Em Construção) Agendada: 01/04/2024
 
