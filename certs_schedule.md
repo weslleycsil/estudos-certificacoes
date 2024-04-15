@@ -9,4 +9,4 @@
 | Network   |      -     | VMware           | VCTA-NV                                              | 11/04/2024 | Previsto |
 | Network   |      -     | VMware           | VCP-NV                                               | -          | -            |
 | Infra     |      -     | VMware           | VCTA-DCV                                             | 08/12/2023 |      Sim     |
-| Infra     |      -     | VMware           | VCP-DCV                                              | 01/04/2024 | Agendado |
+| Infra     |      -     | VMware           | VCP-DCV                                              | 14/04/2024 | Sim |
