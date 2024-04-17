@@ -5,7 +5,7 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [VMWare VCTA-DCV](vmware/vcta-dcv)
 
-[VMWare VCP-DCV](vmware/vcp-dcv) (Em Construção)
+[VMWare VCP-DCV](vmware/vcp-dcv)
 
 [VMWare VCTA-NV](vmware/vcta-nv) (Em Construção)
 
