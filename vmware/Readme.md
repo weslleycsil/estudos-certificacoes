@@ -2,9 +2,9 @@
 
 [VMWare VCTA-DCV](vcta-dcv) Feita em: 08/12/2023
 
-[VMWare VCP-DCV](vcp-dcv) (Em Construção) Agendada: 01/04/2024
+[VMWare VCP-DCV](vcp-dcv) Feita em: 14/04/2024
 
-[VMWare VCTA-NV](vcta-nv) (Em Breve) Prevista: 11/04/2024
+[VMWare VCTA-NV](vcta-nv) (Construção) Prevista: 21/04/2024
 
 # Extras
 
