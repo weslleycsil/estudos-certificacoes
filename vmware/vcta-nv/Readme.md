@@ -17,4 +17,36 @@ Se inscreva no Blog, Instagram e no Youtube!
 
 # Informações importantes
 
-Prova prevista para ser realizada no dia 11/04/2024
+Prova prevista para ser realizada no dia 21/04/2024
+
+[Course VMware Virtual Cloud Network - Core Technical Skills](#)\
+[Datasheet Prova](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/datasheet/vmw-virtual-cloud-network.pdf)
+
+# Conteúdo
+
+[Section 1. Introduction to Software-Defined Data Center](sections/1/)
+
+- [Software-Defined Data Center](sections/1/1.md)
+- [VMware SDDC Solutions](sections/1/2.md)
+- [vSphere Components and Features](sections/1/3.md)
+
+[Section 2. Introduction to Network Virtualization](sections/2/)
+
+- [Network Virtualization](sections/2/4.md)
+- [Virtual Switches Overview](sections/2/5.md)
+- [](sections/2/6.md)
+- [](sections/2/7.md)
+
+[Section 3. Introduction to Software-Defined Networking](sections/3/)
+
+[Section 4. About NSX-T Data Center](sections/4/)
+
+[Section 5. NSX Logical Switching](sections/5/)
+
+[Section 6. NSX Logical Routing](sections/6/)
+
+[Section 7. NSX Security](sections/7/)
+
+[Section 8. NSX Services](sections/8/)
+
+[Section 9. Virtual Cloud Network](sections/9/)
