@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 918.00002 334.05642"
+   enable-background="new 0 0 957.6 540"
+   xml:space="preserve"
+   sodipodi:docname="DistributedSwitch_WhatIs.svg"
+   width="918"
+   height="334.05643"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"><metadata
+   id="metadata319">
+  <rdf:RDF>
+    <cc:Work
+   rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+
+      <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+
+    </cc:Work>
+
+  </rdf:RDF>
+
+</metadata>
+
+<defs
+   id="defs317">
+	
+		
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+		
+
+
+	
+
+
+	
+		
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+</defs>
+
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   inkscape:document-rotation="0"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1035"
+   id="namedview315"
+   showgrid="false"
+   inkscape:zoom="1.4008715"
+   inkscape:cx="459"
+   inkscape:cy="167.02821"
+   inkscape:window-x="0"
+   inkscape:window-y="23"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+<rect
+   id="rect2"
+   height="114.3"
+   width="75.199997"
+   stroke-dasharray="6"
+   stroke-miterlimit="10"
+   stroke="#1e4488"
+   fill="none"
+   y="3.8964845e-06"
+   x="567.5" /><line
+   id="line4"
+   y2="183.60001"
+   x2="58.399998"
+   y1="106.50001"
+   x1="58.399998"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><g
+   id="g16"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect6"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="169.2"
+   x="61.799999" />
+
+
+		<polygon
+   id="polygon8"
+   points="114.3,169.2 61.8,169.2 61.8,221.7 107.8,221.7 107.8,223.1 60.4,223.1 60.4,167.7 115.8,167.7 115.8,222.7 114.3,222.7 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g14">
+			<path
+   inkscape:connector-curvature="0"
+   id="path10"
+   d="m 77,192.2 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path12"
+   d="m 97.5,194.9 v 4.8 H 96.4 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 H 91.6 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0 2.6,1.2 2.6,2.9 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><g
+   id="g28"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect18"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="177.60001"
+   x="53.400002" />
+
+
+		<polygon
+   id="polygon20"
+   points="105.9,177.6 53.4,177.6 53.4,230.1 99.4,230.1 99.4,231.6 52,231.6 52,176.2 107.3,176.2 107.3,231.1 105.9,231.1 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g26">
+			<path
+   inkscape:connector-curvature="0"
+   id="path22"
+   d="m 68.6,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 H 76 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path24"
+   d="m 89.1,203.3 v 4.8 H 88 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><rect
+   id="rect30"
+   height="31.4"
+   width="110.2"
+   fill="#78be43"
+   y="126.70002"
+   x="2.3706055e-07" /><text
+   id="text32"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="8.8594046"
+   y="145.787"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+     sodipodi:role="line"
+     id="tspan993"
+     x="8.8594046"
+     y="145.787">Standard Switch</tspan></text><rect
+   id="rect34"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="2.3706055e-07" /><text
+   id="text36"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="25.6744"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.5420742px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><g
+   id="g58"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path38"
+   d="m 127.1,356.4 v 23.2 H 22.9 v -23.2 h 104.2 m 2.9,-2.9 H 20 v 29 h 110 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path40"
+   d="m 74.8,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.1,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g48">
+			<rect
+   id="rect42"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="27.9" />
+
+
+			<rect
+   id="rect44"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="33.700001" />
+
+
+			<rect
+   id="rect46"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="39.5" />
+
+
+		</g>
+
+
+		<g
+   id="g56">
+			<rect
+   id="rect50"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="106" />
+
+
+			<rect
+   id="rect52"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="111.7" />
+
+
+			<rect
+   id="rect54"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="117.5" />
+
+
+		</g>
+
+
+	</g><line
+   id="line60"
+   y2="183.60001"
+   x2="188.8"
+   y1="106.50001"
+   x1="188.8"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><g
+   id="g72"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect62"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="169.2"
+   x="192.3" />
+
+
+		<polygon
+   id="polygon64"
+   points="244.7,169.2 192.3,169.2 192.3,221.7 238.2,221.7 238.2,223.1 190.8,223.1 190.8,167.7 246.2,167.7 246.2,222.7 244.7,222.7 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g70">
+			<path
+   inkscape:connector-curvature="0"
+   id="path66"
+   d="m 207.4,192.2 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path68"
+   d="m 227.9,194.9 v 4.8 h -1.1 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 H 222 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 H 217 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.7,0 2.8,1.2 2.8,2.9 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><g
+   id="g84"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect74"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="177.60001"
+   x="183.8" />
+
+
+		<polygon
+   id="polygon76"
+   points="236.3,177.6 183.8,177.6 183.8,230.1 229.8,230.1 229.8,231.6 182.4,231.6 182.4,176.2 237.7,176.2 237.7,231.1 236.3,231.1 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g82">
+			<path
+   inkscape:connector-curvature="0"
+   id="path78"
+   d="m 199,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path80"
+   d="m 219.5,203.3 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><g
+   id="g96"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect86"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="169.2"
+   x="317.20001" />
+
+
+		<polygon
+   id="polygon88"
+   points="369.6,169.2 317.2,169.2 317.2,221.7 363.2,221.7 363.2,223.1 315.7,223.1 315.7,167.7 371.1,167.7 371.1,222.7 369.6,222.7 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g94">
+			<path
+   inkscape:connector-curvature="0"
+   id="path90"
+   d="m 332.3,192.2 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path92"
+   d="m 352.9,194.9 v 4.8 h -1.1 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 H 347 V 195 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 H 342 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.7,0 2.8,1.2 2.8,2.9 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><g
+   id="g108"
+   transform="translate(-19.799999,-130.39999)">
+		<rect
+   id="rect98"
+   height="52.5"
+   width="52.5"
+   fill="#ffffff"
+   y="177.60001"
+   x="308.79999" />
+
+
+		<polygon
+   id="polygon100"
+   points="361.2,177.6 308.8,177.6 308.8,230.1 354.7,230.1 354.7,231.6 307.3,231.6 307.3,176.2 362.7,176.2 362.7,231.1 361.2,231.1 "
+   fill="#218fcf" />
+
+
+		<g
+   id="g106">
+			<path
+   inkscape:connector-curvature="0"
+   id="path102"
+   d="m 323.9,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+			<path
+   inkscape:connector-curvature="0"
+   id="path104"
+   d="m 344.4,203.3 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+		</g>
+
+
+	</g><rect
+   id="rect110"
+   height="31.4"
+   width="110.2"
+   fill="#78be43"
+   y="126.70002"
+   x="130.39999" /><text
+   id="text112"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="139.2594"
+   y="145.787"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+     sodipodi:role="line"
+     id="tspan995"
+     x="139.2594"
+     y="145.787">Standard Switch</tspan></text><rect
+   id="rect114"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="130.39999" /><text
+   id="text116"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="156.0811"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.5420742px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><g
+   id="g138"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path118"
+   d="m 257.6,356.4 v 23.2 H 153.3 v -23.2 h 104.3 m 2.9,-2.9 h -110 v 29 h 110 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path120"
+   d="m 205.2,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.1,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g128">
+			<rect
+   id="rect122"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="158.3" />
+
+
+			<rect
+   id="rect124"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="164.10001" />
+
+
+			<rect
+   id="rect126"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="169.89999" />
+
+
+		</g>
+
+
+		<g
+   id="g136">
+			<rect
+   id="rect130"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="236.39999" />
+
+
+			<rect
+   id="rect132"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="242.2" />
+
+
+			<rect
+   id="rect134"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="247.89999" />
+
+
+		</g>
+
+
+	</g><line
+   id="line140"
+   y2="183.60001"
+   x2="319.40002"
+   y1="106.50001"
+   x1="319.40002"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><rect
+   id="rect142"
+   height="31.4"
+   width="110.2"
+   fill="#78be43"
+   y="126.70002"
+   x="261" /><text
+   id="text144"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="269.85941"
+   y="145.787"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+     sodipodi:role="line"
+     id="tspan997"
+     x="269.85941"
+     y="145.787">Standard Switch</tspan></text><rect
+   id="rect146"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="261" /><text
+   id="text148"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="286.6871"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.5420742px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><g
+   id="g170"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path150"
+   d="m 388.2,356.4 v 23.2 H 283.9 v -23.2 h 104.3 m 2.9,-2.9 H 281 v 29 h 110 v -29 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path152"
+   d="m 335.8,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.2,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g160">
+			<rect
+   id="rect154"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="288.89999" />
+
+
+			<rect
+   id="rect156"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="294.70001" />
+
+
+			<rect
+   id="rect158"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="300.5" />
+
+
+		</g>
+
+
+		<g
+   id="g168">
+			<rect
+   id="rect162"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="367" />
+
+
+			<rect
+   id="rect164"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="372.79999" />
+
+
+			<rect
+   id="rect166"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="378.5" />
+
+
+		</g>
+
+
+	</g><line
+   id="line172"
+   y2="183.60001"
+   x2="605.10004"
+   y1="106.50001"
+   x1="605.10004"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><polygon
+   id="polygon174"
+   points="652.6,177.6 600.1,177.6 600.1,230.1 646.1,230.1 646.1,231.6 598.7,231.6 598.7,176.2 654.1,176.2 654.1,231.1 652.6,231.1 "
+   fill="#218fcf"
+   transform="translate(-19.799999,-130.39999)" /><g
+   id="g180"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path176"
+   d="m 615.3,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path178"
+   d="m 635.8,203.3 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+	</g><rect
+   id="rect182"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="546.70001" /><text
+   id="text184"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="572.39038"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.1619997px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><g
+   id="g206"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path186"
+   d="m 673.9,356.4 v 23.2 H 569.6 v -23.2 h 104.3 m 2.9,-2.9 h -110 v 29 h 110 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path188"
+   d="m 621.5,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.2,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g196">
+			<rect
+   id="rect190"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="574.59998" />
+
+
+			<rect
+   id="rect192"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="580.40002" />
+
+
+			<rect
+   id="rect194"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="586.20001" />
+
+
+		</g>
+
+
+		<g
+   id="g204">
+			<rect
+   id="rect198"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="652.70001" />
+
+
+			<rect
+   id="rect200"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="658.5" />
+
+
+			<rect
+   id="rect202"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="664.29999" />
+
+
+		</g>
+
+
+	</g><line
+   id="line208"
+   y2="183.60001"
+   x2="735.5"
+   y1="106.50001"
+   x1="735.5"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><polygon
+   id="polygon210"
+   points="783,177.6 730.5,177.6 730.5,230.1 776.5,230.1 776.5,231.6 729.1,231.6 729.1,176.2 784.5,176.2 784.5,231.1 783,231.1 "
+   fill="#218fcf"
+   transform="translate(-19.799999,-130.39999)" /><g
+   id="g216"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path212"
+   d="m 745.7,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path214"
+   d="m 766.2,203.3 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+	</g><rect
+   id="rect218"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="677.20001" /><text
+   id="text220"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="702.79669"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.1619997px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><text
+   id="text226"
+   enable-background="new    "
+   x="579.4812"
+   y="17.958811"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"><tspan
+     id="tspan222"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#1e4488"
+     y="17.958811"
+     x="579.4812"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Network</tspan><tspan
+     id="tspan224"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#1e4488"
+     y="31.65881"
+     x="589.58118"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">State</tspan></text><rect
+   id="rect228"
+   height="114.3"
+   width="75.199997"
+   stroke-dasharray="6"
+   stroke-miterlimit="10"
+   stroke="#397d3c"
+   fill="none"
+   y="3.8964845e-06"
+   x="699.40002" /><text
+   id="text234"
+   enable-background="new    "
+   x="711.34552"
+   y="17.958811"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"><tspan
+     id="tspan230"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#397d3c"
+     y="17.958811"
+     x="711.34552"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Network</tspan><tspan
+     id="tspan232"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#397d3c"
+     y="31.65881"
+     x="721.4455"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">State</tspan></text><rect
+   id="rect236"
+   height="114.3"
+   width="75.199997"
+   stroke-dasharray="6"
+   stroke-miterlimit="10"
+   stroke="#811427"
+   fill="none"
+   y="3.8964845e-06"
+   x="828.90002" /><text
+   id="text242"
+   enable-background="new    "
+   x="840.89532"
+   y="17.958811"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"><tspan
+     id="tspan238"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#811427"
+     y="17.958811"
+     x="840.89532"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Network</tspan><tspan
+     id="tspan240"
+     font-size="12.162px"
+     font-family="Metropolis-SemiBold"
+     fill="#811427"
+     y="31.65881"
+     x="850.9953"
+     style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">State</tspan></text><g
+   id="g264"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path244"
+   d="m 804.3,356.4 v 23.2 H 700 v -23.2 h 104.3 m 2.9,-2.9 h -110 v 29 h 110 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path246"
+   d="m 751.9,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.2,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g254">
+			<rect
+   id="rect248"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="705" />
+
+
+			<rect
+   id="rect250"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="710.79999" />
+
+
+			<rect
+   id="rect252"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="716.59998" />
+
+
+		</g>
+
+
+		<g
+   id="g262">
+			<rect
+   id="rect256"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="783.09998" />
+
+
+			<rect
+   id="rect258"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="788.90002" />
+
+
+			<rect
+   id="rect260"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="794.70001" />
+
+
+		</g>
+
+
+	</g><line
+   id="line266"
+   y2="183.60001"
+   x2="866.10004"
+   y1="106.50001"
+   x1="866.10004"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#686b70"
+   fill="none" /><polygon
+   id="polygon268"
+   points="913.6,177.6 861.1,177.6 861.1,230.1 907.1,230.1 907.1,231.6 859.7,231.6 859.7,176.2 915.1,176.2 915.1,231.1 913.6,231.1 "
+   fill="#218fcf"
+   transform="translate(-19.799999,-130.39999)" /><g
+   id="g274"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path270"
+   d="m 876.3,200.6 h 1.2 l 2.5,6.2 2.4,-6.2 h 1.2 l -3.1,7.5 h -1 z"
+   fill="#218fcf" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path272"
+   d="m 896.8,203.3 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -4.7 c 0,-1.2 -0.7,-2.1 -1.7,-2.1 -1.2,0 -2,0.8 -2,1.9 v 4.8 h -1.1 v -7.4 h 1.1 v 1.1 c 0.3,-0.8 1.2,-1.3 2.2,-1.3 1.1,0 2,0.6 2.4,1.6 0.3,-1 1.3,-1.6 2.4,-1.6 1.5,0.1 2.6,1.4 2.6,3 z"
+   fill="#218fcf" />
+
+
+	</g><rect
+   id="rect276"
+   height="31.4"
+   width="110.2"
+   fill="#218fcf"
+   y="183.60001"
+   x="807.79999" /><text
+   id="text278"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="833.40308"
+   y="202.71271"
+   style="-inkscape-font-specification:'Metropolis, Normal';font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.1619997px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">ESXi Host</text><g
+   id="g300"
+   transform="translate(-19.799999,-130.39999)">
+		<path
+   inkscape:connector-curvature="0"
+   id="path280"
+   d="m 934.9,356.4 v 23.2 H 830.7 v -23.2 h 104.2 m 2.9,-2.9 h -110 v 29 h 110 z" />
+
+
+		<path
+   inkscape:connector-curvature="0"
+   id="path282"
+   d="m 882.5,364.5 v 0 c 1.7,0 3.1,1.3 3.5,2.9 0.3,1.9 -0.9,3.7 -2.9,4.1 -0.2,0 -0.3,0 -0.6,0 -1.7,0 -3.1,-1.3 -3.5,-2.9 -0.3,-1.9 0.9,-3.7 2.9,-4.1 0.2,0 0.4,0 0.6,0 m 0,-2.3 c -0.3,0 -0.7,0 -0.9,0.1 -3.1,0.6 -5.3,3.5 -4.7,6.7 0.5,2.8 2.9,4.9 5.7,4.9 0.3,0 0.7,0 0.9,-0.1 3.1,-0.6 5.3,-3.5 4.7,-6.7 -0.5,-2.9 -2.9,-4.9 -5.7,-4.9 z" />
+
+
+		<g
+   id="g290">
+			<rect
+   id="rect284"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="835.59998" />
+
+
+			<rect
+   id="rect286"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="841.40002" />
+
+
+			<rect
+   id="rect288"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="847.20001" />
+
+
+		</g>
+
+
+		<g
+   id="g298">
+			<rect
+   id="rect292"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="913.70001" />
+
+
+			<rect
+   id="rect294"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="919.5" />
+
+
+			<rect
+   id="rect296"
+   height="11.6"
+   width="2.9000001"
+   y="362.20001"
+   x="925.29999" />
+
+
+		</g>
+
+
+	</g><rect
+   style="fill:#800080"
+   id="rect302"
+   height="31.4"
+   width="371.20001"
+   fill="#78be43"
+   y="126.70002"
+   x="546.70001" /><text
+   id="text304"
+   font-size="12.162px"
+   font-family="Metropolis-SemiBold"
+   fill="#ffffff"
+   x="676.20813"
+   y="145.787"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1619997px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"><tspan
+     sodipodi:role="line"
+     id="tspan1148"
+     x="676.20813"
+     y="145.787">Distributed Switch</tspan></text><polygon
+   id="polygon310"
+   points="803.5,212.7 839.6,212.7 839.6,217.2 848.7,208.1 839.6,199 839.6,203.6 803.5,203.6 803.5,199 794.3,208.1 803.5,217.2 "
+   fill="#218fcf"
+   transform="translate(-19.799999,-130.39999)" />
+
+
+</svg>

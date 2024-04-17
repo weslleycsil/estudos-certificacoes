@@ -34,8 +34,8 @@ Prova prevista para ser realizada no dia 21/04/2024
 
 - [Network Virtualization](sections/2/4.md)
 - [Virtual Switches Overview](sections/2/5.md)
-- [](sections/2/6.md)
-- [](sections/2/7.md)
+- [vSphere Standard Switches](sections/2/6.md)
+- [vSphere Distributed Switches](sections/2/7.md)
 
 [Section 3. Introduction to Software-Defined Networking](sections/3/)
 
