@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="AboutNetworkVirtualization.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 918.9 405"
+   viewBox="0 0 918.9 405"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata304"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs302" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="202.5"
+   inkscape:cx="459.45"
+   inkscape:zoom="1.1938187"
+   showgrid="false"
+   id="namedview300"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<rect
+   id="rect10"
+   height="405"
+   width="918.9"
+   fill="#FFFFFF" />
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#218FCF"
+   fill="#FFFFFF"
+   y="7.8"
+   x="10.8"
+   id="rect41" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 26.7425 29.0673)"
+   id="text6_2_">Application</text>
+<rect
+   height="34.6"
+   width="373.1"
+   stroke-miterlimit="10"
+   stroke="#218FCF"
+   fill="#FFFFFF"
+   y="110"
+   x="12.1"
+   id="rect41_3_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 141.8529 131.2652)"
+   id="text6_4_">x86 Environment</text>
+<rect
+   height="34.6"
+   width="373.1"
+   stroke-miterlimit="10"
+   stroke="#218FCF"
+   fill="#FFFFFF"
+   y="199.4"
+   x="12.1"
+   id="rect41_7_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 138.6051 220.6932)"
+   id="text6_8_">Server Hypervisor</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 139.1024 254.7592)"
+   id="text6_9_">Requirement: x86</text>
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="translate(84.0759,393.8455)"
+   id="text6_10_">General-Purpose Server Hardware</text>
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#218FCF"
+   fill="#FFFFFF"
+   y="7.8"
+   x="145.2"
+   id="rect41_1_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 161.0799 29.0673)"
+   id="text6_1_">Application</text>
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#218FCF"
+   fill="#FFFFFF"
+   y="7.8"
+   x="279.5"
+   id="rect41_2_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 295.4172 29.0673)"
+   id="text6_3_">Application</text>
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#218FCF"
+   y="154.7"
+   x="10.8"
+   id="rect41_6_" />
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 42.5548 168.9794)"
+   id="text6_7_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan25"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan27"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6">Machine</tspan></text>
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#218FCF"
+   y="154.7"
+   x="145.2"
+   id="rect41_5_" />
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#218FCF"
+   y="154.7"
+   x="279.5"
+   id="rect41_4_" />
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 176.6427 168.9794)"
+   id="text6_5_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan32"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan34"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6">Machine</tspan></text>
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 311.23 168.9794)"
+   id="text6_6_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan37"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan39"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6">Machine</tspan></text>
+<polygon
+   id="polygon42"
+   points="88,80.2 75.8,80.2 75.8,48.7 53.3,48.7 53.3,80.2 41,80.2 64.5,103.7 "
+   fill="#686B70" />
+<polygon
+   id="polygon44"
+   points="222.1,80.2 209.9,80.2 209.9,48.7 187.4,48.7 187.4,80.2 175.1,80.2 198.6,103.7 "
+   fill="#686B70" />
+<polygon
+   id="polygon46"
+   points="175.1,290.9 187.4,290.9 187.4,322.3 209.9,322.3 209.9,290.9 222.1,290.9 198.6,267.4 "
+   fill="#686B70" />
+<polygon
+   id="polygon48"
+   points="356.7,80.2 344.5,80.2 344.5,48.7 321.9,48.7 321.9,80.2 309.7,80.2 333.2,103.7 "
+   fill="#686B70" />
+<g
+   id="g70">
+	<path
+   id="path50"
+   d="M262.4,336.8v28.4H134.5v-28.4H262.4 M265.9,333.2H131v35.5h134.9V333.2L265.9,333.2z"
+   fill="#1E4488" />
+	<path
+   id="path52"
+   d="M198.2,346.7L198.2,346.7c2.1,0,3.8,1.6,4.3,3.6c0.4,2.3-1.1,4.5-3.6,5c-0.3,0-0.4,0-0.7,0   c-2.1,0-3.8-1.6-4.3-3.6c-0.4-2.3,1.1-4.5,3.6-5C197.6,346.7,197.9,346.7,198.2,346.7 M198.2,343.9c-0.4,0-0.9,0-1.1,0.1   c-3.8,0.7-6.5,4.3-5.8,8.2c0.6,3.4,3.6,6,7,6c0.4,0,0.9,0,1.1-0.1c3.8-0.7,6.5-4.3,5.8-8.2C204.5,346.3,201.6,343.9,198.2,343.9   L198.2,343.9z"
+   fill="#1E4488" />
+	<g
+   id="g60">
+		<rect
+   id="rect54"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="140.6" />
+		<rect
+   id="rect56"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="147.7" />
+		<rect
+   id="rect58"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="154.8" />
+	</g>
+	<g
+   id="g68">
+		<rect
+   id="rect62"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="236.4" />
+		<rect
+   id="rect64"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="243.5" />
+		<rect
+   id="rect66"
+   height="14.2"
+   width="3.6"
+   fill="#1E4488"
+   y="343.9"
+   x="250.6" />
+	</g>
+</g>
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#78BE43"
+   fill="#FFFFFF"
+   y="7.8"
+   x="532"
+   id="rect41_15_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 552.8625 29.0674)"
+   id="text6_20_">Workload</text>
+<rect
+   height="34.6"
+   width="373.1"
+   stroke-miterlimit="10"
+   stroke="#78BE43"
+   fill="#FFFFFF"
+   y="110"
+   x="533.2"
+   id="rect41_14_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 620.3173 131.2652)"
+   id="text6_19_">L2, L3, L4-7 Network Services</text>
+<rect
+   height="34.6"
+   width="373.1"
+   stroke-miterlimit="10"
+   stroke="#78BE43"
+   fill="#FFFFFF"
+   y="199.4"
+   x="533.2"
+   id="rect41_13_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 615.1866 220.6932)"
+   id="text6_18_">Network Virtualization Platform</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 631.391 254.7592)"
+   id="text6_17_">Requirement: IP Transport</text>
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="translate(588.1174,393.8455)"
+   id="text6_16_">General-Purpose Networking Hardware</text>
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#78BE43"
+   fill="#FFFFFF"
+   y="7.8"
+   x="666.3"
+   id="rect41_12_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 687.1995 29.0674)"
+   id="text6_15_">Workload</text>
+<rect
+   height="34.6"
+   width="107.4"
+   stroke-miterlimit="10"
+   stroke="#78BE43"
+   fill="#FFFFFF"
+   y="7.8"
+   x="800.6"
+   id="rect41_11_" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 821.5374 29.0674)"
+   id="text6_14_">Workload</text>
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#78BE43"
+   y="154.7"
+   x="532"
+   id="rect41_10_" />
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 563.7045 168.9794)"
+   id="text6_13_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan85"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan87"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6.6">Network</tspan></text>
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#78BE43"
+   y="154.7"
+   x="666.3"
+   id="rect41_9_" />
+<rect
+   height="34.6"
+   width="107.4"
+   fill="#78BE43"
+   y="154.7"
+   x="800.6"
+   id="rect41_8_" />
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 697.7924 168.9794)"
+   id="text6_12_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan92"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan94"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6.6">Network</tspan></text>
+<text
+   enable-background="new    "
+   transform="matrix(1 0 0 1 832.3798 168.9794)"
+   id="text6_11_"><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan97"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="0"
+     x="0">Virtual</tspan><tspan
+     style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="tspan99"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     fill="#FFFFFF"
+     y="14"
+     x="-6.6">Network</tspan></text>
+<polygon
+   id="polygon102"
+   points="609.2,80.2 596.9,80.2 596.9,48.7 574.4,48.7 574.4,80.2 562.2,80.2 585.7,103.7 "
+   fill="#686B70" />
+<polygon
+   id="polygon104"
+   points="743.3,80.2 731,80.2 731,48.7 708.5,48.7 708.5,80.2 696.3,80.2 719.8,103.7 "
+   fill="#686B70" />
+<polygon
+   id="polygon106"
+   points="696.3,290.9 708.5,290.9 708.5,322.3 731,322.3 731,290.9 743.3,290.9 719.8,267.4 "
+   fill="#686B70" />
+<polygon
+   id="polygon108"
+   points="435.9,152 448.2,152 448.2,183.4 470.7,183.4 470.7,152 482.9,152 459.4,128.5 "
+   fill="#686B70" />
+
+
+
+
+<polygon
+   id="polygon118"
+   points="435.9,261.5 448.2,261.5 448.2,230 470.7,230 470.7,261.5 482.9,261.5 459.4,285 "
+   fill="#686B70" />
+<polygon
+   id="polygon120"
+   points="877.8,80.2 865.6,80.2 865.6,48.7 843.1,48.7 843.1,80.2 830.8,80.2 854.3,103.7 "
+   fill="#686B70" />
+<g
+   id="g206">
+	<path
+   id="path122"
+   d="M779,330.8v17.6H661v-17.6H779 M780,329.8H660v19.6h120V329.8L780,329.8z"
+   fill="#1295D3" />
+	<path
+   id="path124"
+   d="M721.7,346.6h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.8,0,1.4,0.6,1.5,1.5v10.9   C723.2,346,722.4,346.6,721.7,346.6z M708.9,332.9c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8c0.6,0,1.3-0.5,1.3-1.3   v-10.9c-0.1-0.7-0.6-1.3-1.3-1.3H708.9z"
+   fill="#1295D3" />
+	<path
+   id="path126"
+   d="M721.6,345.6h-12.7c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6v10.9   h-0.1C722.1,345.4,721.9,345.6,721.6,345.6z M708.9,333.8c-0.2,0-0.4,0.2-0.4,0.4V345c0,0.2,0.2,0.4,0.4,0.4h12.7   c0.2,0,0.4-0.2,0.4-0.4v-0.1h0.1v-10.7c0-0.2-0.2-0.4-0.4-0.4H708.9z"
+   fill="#1295D3" />
+	<path
+   id="path128"
+   d="M720.7,334.6h-10.8c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.2c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5V341h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C721.2,334.8,721,334.6,720.7,334.6z"
+   fill="#1295D3" />
+	<path
+   id="path130"
+   d="M710.8,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C711.2,343.9,711,343.7,710.8,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path132"
+   d="M720.7,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C721.2,343.9,721,343.7,720.7,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path134"
+   d="M711.7,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C711.2,338.9,711.4,339.1,711.7,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path136"
+   d="M713.5,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C713,338.9,713.2,339.1,713.5,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path138"
+   d="M715.3,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C714.8,338.9,715,339.1,715.3,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path140"
+   d="M717.1,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C716.7,338.9,716.9,339.1,717.1,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path142"
+   d="M718.9,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C718.5,338.9,718.7,339.1,718.9,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path144"
+   d="M740,346.6h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.7c0.8,0,1.5,0.6,1.6,1.5v10.9   C741.5,346,740.7,346.6,740,346.6z M727.2,332.9c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3H740c0.6,0,1.3-0.5,1.3-1.3   v-10.9c-0.1-0.7-0.7-1.3-1.4-1.3H727.2z"
+   fill="#1295D3" />
+	<path
+   id="path146"
+   d="M739.9,345.6h-12.7c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6H740c0.3,0,0.6,0.2,0.6,0.6v10.9   h-0.1C740.4,345.4,740.2,345.6,739.9,345.6z M727.2,333.8c-0.2,0-0.4,0.2-0.4,0.4V345c0,0.2,0.2,0.4,0.4,0.4h12.7   c0.2,0,0.4-0.2,0.4-0.4v-0.1h0.1v-10.7c0-0.2-0.2-0.4-0.4-0.4H727.2z"
+   fill="#1295D3" />
+	<path
+   id="path148"
+   d="M739,334.6h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4v1.4   c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5V341h0.2c0.3,0,0.5-0.2,0.5-0.5v-5.4   C739.5,334.8,739.3,334.6,739,334.6z"
+   fill="#1295D3" />
+	<path
+   id="path150"
+   d="M729,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C729.5,343.9,729.3,343.7,729,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path152"
+   d="M739,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C739.5,343.9,739.3,343.7,739,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path154"
+   d="M729.9,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C729.5,338.9,729.7,339.1,729.9,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path156"
+   d="M731.7,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C731.3,338.9,731.5,339.1,731.7,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path158"
+   d="M733.6,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C733.1,338.9,733.3,339.1,733.6,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path160"
+   d="M735.4,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C734.9,338.9,735.1,339.1,735.4,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path162"
+   d="M737.2,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C736.7,338.9,736.9,339.1,737.2,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path164"
+   d="M758.2,346.6h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.9,0,1.5,0.7,1.5,1.5v10.9   C759.7,346,758.9,346.6,758.2,346.6z M745.4,332.9c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8c0.6,0,1.3-0.5,1.3-1.3   v-10.9c0-0.7-0.5-1.3-1.3-1.3H745.4z"
+   fill="#1295D3" />
+	<path
+   id="path166"
+   d="M758.2,345.6h-12.8c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6V345   C758.8,345.3,758.6,345.6,758.2,345.6z M745.4,333.8c-0.2,0-0.4,0.2-0.4,0.4V345c0,0.2,0.2,0.4,0.4,0.4h12.8c0.2,0,0.4-0.2,0.4-0.4   v-10.8c0-0.2-0.2-0.4-0.4-0.4H745.4z"
+   fill="#1295D3" />
+	<path
+   id="path168"
+   d="M757.3,334.6h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5V341h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C757.7,334.8,757.5,334.6,757.3,334.6z"
+   fill="#1295D3" />
+	<path
+   id="path170"
+   d="M747.3,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C747.7,343.9,747.5,343.7,747.3,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path172"
+   d="M757.3,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C757.7,343.9,757.5,343.7,757.3,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path174"
+   d="M748.2,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C747.7,338.9,747.9,339.1,748.2,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path176"
+   d="M750,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C749.6,338.9,749.8,339.1,750,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path178"
+   d="M751.8,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C751.4,338.9,751.6,339.1,751.8,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path180"
+   d="M753.6,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C753.2,338.9,753.4,339.1,753.6,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path182"
+   d="M755.5,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C755,338.9,755.2,339.1,755.5,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path184"
+   d="M776.5,346.6h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.8,0,1.4,0.6,1.5,1.5v10.9   C778,346,777.2,346.6,776.5,346.6z M763.7,332.9c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8c0.6,0,1.3-0.5,1.3-1.3   v-10.9c-0.1-0.7-0.6-1.3-1.3-1.3H763.7z"
+   fill="#1295D3" />
+	<path
+   id="path186"
+   d="M776.4,345.6h-12.8c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6V345   C777,345.3,776.8,345.6,776.4,345.6z M763.6,333.8c-0.2,0-0.4,0.2-0.4,0.4V345c0,0.2,0.2,0.4,0.4,0.4h12.8c0.2,0,0.4-0.2,0.4-0.4   v-10.8c0-0.2-0.2-0.4-0.4-0.4H763.6z"
+   fill="#1295D3" />
+	<path
+   id="path188"
+   d="M775.5,334.6h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5V341h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C776,334.8,775.8,334.6,775.5,334.6z"
+   fill="#1295D3" />
+	<path
+   id="path190"
+   d="M765.6,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C766,343.9,765.8,343.7,765.6,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path192"
+   d="M775.5,343.7h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C776,343.9,775.8,343.7,775.5,343.7z"
+   fill="#1295D3" />
+	<path
+   id="path194"
+   d="M766.5,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C766,338.9,766.2,339.1,766.5,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path196"
+   d="M768.3,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C767.8,338.9,768,339.1,768.3,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path198"
+   d="M770.1,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C769.6,338.9,769.8,339.1,770.1,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path200"
+   d="M771.9,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C771.5,338.9,771.7,339.1,771.9,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path202"
+   d="M773.7,339.1c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C773.3,338.9,773.5,339.1,773.7,339.1z"
+   fill="#FFFFFF" />
+	<path
+   id="path204"
+   d="M703.1,346.4h-39c-0.8,0-1.4-0.6-1.4-1.4v-10.8c0-0.8,0.6-1.4,1.4-1.4h39.1c0.8,0,1.4,0.6,1.4,1.4V345   C704.6,345.8,703.9,346.4,703.1,346.4z"
+   fill="#1295D3" />
+</g>
+<g
+   id="g292">
+	<path
+   id="path208"
+   d="M779,352.4V370H661v-17.6H779 M780,351.4H660V371h120V351.4L780,351.4z"
+   fill="#1295D3" />
+	<path
+   id="path210"
+   d="M721.7,368.2h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.8,0,1.4,0.6,1.5,1.5v10.9   C723.2,367.6,722.4,368.2,721.7,368.2z M708.9,354.5c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8   c0.6,0,1.3-0.5,1.3-1.3v-10.9c-0.1-0.7-0.6-1.3-1.3-1.3H708.9z"
+   fill="#1295D3" />
+	<path
+   id="path212"
+   d="M721.6,367.2h-12.7c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6v10.9   h-0.1C722.1,367,721.9,367.2,721.6,367.2z M708.9,355.4c-0.2,0-0.4,0.2-0.4,0.4v10.8c0,0.2,0.2,0.4,0.4,0.4h12.7   c0.2,0,0.4-0.2,0.4-0.4v-0.1h0.1v-10.7c0-0.2-0.2-0.4-0.4-0.4H708.9z"
+   fill="#1295D3" />
+	<path
+   id="path214"
+   d="M720.7,356.2h-10.8c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.2c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C721.2,356.4,721,356.2,720.7,356.2z"
+   fill="#1295D3" />
+	<path
+   id="path216"
+   d="M710.8,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C711.2,365.5,711,365.3,710.8,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path218"
+   d="M720.7,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C721.2,365.5,721,365.3,720.7,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path220"
+   d="M711.7,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C711.2,360.5,711.4,360.7,711.7,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path222"
+   d="M713.5,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C713,360.5,713.2,360.7,713.5,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path224"
+   d="M715.3,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C714.8,360.5,715,360.7,715.3,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path226"
+   d="M717.1,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C716.7,360.5,716.9,360.7,717.1,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path228"
+   d="M718.9,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C718.5,360.5,718.7,360.7,718.9,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path230"
+   d="M740,368.2h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.7c0.8,0,1.5,0.6,1.6,1.5v10.9   C741.5,367.6,740.7,368.2,740,368.2z M727.2,354.5c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3H740c0.6,0,1.3-0.5,1.3-1.3   v-10.9c-0.1-0.7-0.7-1.3-1.4-1.3H727.2z"
+   fill="#1295D3" />
+	<path
+   id="path232"
+   d="M739.9,367.2h-12.7c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6H740c0.3,0,0.6,0.2,0.6,0.6v10.9   h-0.1C740.4,367,740.2,367.2,739.9,367.2z M727.2,355.4c-0.2,0-0.4,0.2-0.4,0.4v10.8c0,0.2,0.2,0.4,0.4,0.4h12.7   c0.2,0,0.4-0.2,0.4-0.4v-0.1h0.1v-10.7c0-0.2-0.2-0.4-0.4-0.4H727.2z"
+   fill="#1295D3" />
+	<path
+   id="path234"
+   d="M739,356.2h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4v1.4   c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h0.2c0.3,0,0.5-0.2,0.5-0.5v-5.4   C739.5,356.4,739.3,356.2,739,356.2z"
+   fill="#1295D3" />
+	<path
+   id="path236"
+   d="M729,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C729.5,365.5,729.3,365.3,729,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path238"
+   d="M739,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C739.5,365.5,739.3,365.3,739,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path240"
+   d="M729.9,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C729.5,360.5,729.7,360.7,729.9,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path242"
+   d="M731.7,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C731.3,360.5,731.5,360.7,731.7,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path244"
+   d="M733.6,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C733.1,360.5,733.3,360.7,733.6,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path246"
+   d="M735.4,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C734.9,360.5,735.1,360.7,735.4,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path248"
+   d="M737.2,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C736.7,360.5,736.9,360.7,737.2,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path250"
+   d="M758.2,368.2h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.9,0,1.5,0.7,1.5,1.5v10.9   C759.7,367.6,758.9,368.2,758.2,368.2z M745.4,354.5c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8   c0.6,0,1.3-0.5,1.3-1.3v-10.9c0-0.7-0.5-1.3-1.3-1.3H745.4z"
+   fill="#1295D3" />
+	<path
+   id="path252"
+   d="M758.2,367.2h-12.8c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6v10.8   C758.8,366.9,758.6,367.2,758.2,367.2z M745.4,355.4c-0.2,0-0.4,0.2-0.4,0.4v10.8c0,0.2,0.2,0.4,0.4,0.4h12.8   c0.2,0,0.4-0.2,0.4-0.4v-10.8c0-0.2-0.2-0.4-0.4-0.4H745.4z"
+   fill="#1295D3" />
+	<path
+   id="path254"
+   d="M757.3,356.2h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C757.7,356.4,757.5,356.2,757.3,356.2z"
+   fill="#1295D3" />
+	<path
+   id="path256"
+   d="M747.3,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C747.7,365.5,747.5,365.3,747.3,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path258"
+   d="M757.3,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C757.7,365.5,757.5,365.3,757.3,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path260"
+   d="M748.2,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C747.7,360.5,747.9,360.7,748.2,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path262"
+   d="M750,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C749.6,360.5,749.8,360.7,750,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path264"
+   d="M751.8,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C751.4,360.5,751.6,360.7,751.8,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path266"
+   d="M753.6,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C753.2,360.5,753.4,360.7,753.6,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path268"
+   d="M755.5,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C755,360.5,755.2,360.7,755.5,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path270"
+   d="M776.5,368.2h-12.8c-0.9,0-1.5-0.8-1.5-1.5v-10.9c0-0.9,0.8-1.5,1.5-1.5h12.8c0.8,0,1.4,0.6,1.5,1.5v10.9   C778,367.6,777.2,368.2,776.5,368.2z M763.7,354.5c-0.6,0-1.3,0.5-1.3,1.3v10.9c0,0.6,0.5,1.3,1.3,1.3h12.8c0.6,0,1.3-0.5,1.3-1.3   v-10.9c-0.1-0.7-0.6-1.3-1.3-1.3H763.7z"
+   fill="#1295D3" />
+	<path
+   id="path272"
+   d="M776.4,367.2h-12.8c-0.3,0-0.6-0.2-0.6-0.6v-10.8c0-0.3,0.2-0.6,0.6-0.6h12.8c0.3,0,0.6,0.2,0.6,0.6v10.8   C777,366.9,776.8,367.2,776.4,367.2z M763.6,355.4c-0.2,0-0.4,0.2-0.4,0.4v10.8c0,0.2,0.2,0.4,0.4,0.4h12.8c0.2,0,0.4-0.2,0.4-0.4   v-10.8c0-0.2-0.2-0.4-0.4-0.4H763.6z"
+   fill="#1295D3" />
+	<path
+   id="path274"
+   d="M775.5,356.2h-10.9c-0.3,0-0.5,0.2-0.5,0.5v5.4c0,0.3,0.2,0.5,0.5,0.5h0.5v1.4c0,0.3,0.2,0.5,0.5,0.5h1.4   v1.4c0,0.3,0.2,0.5,0.5,0.5h5.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h1.4c0.3,0,0.5-0.2,0.5-0.5v-1.4h0.5c0.3,0,0.5-0.2,0.5-0.5v-5.4   C776,356.4,775.8,356.2,775.5,356.2z"
+   fill="#1295D3" />
+	<path
+   id="path276"
+   d="M765.6,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C766,365.5,765.8,365.3,765.6,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path278"
+   d="M775.5,365.3h-0.9c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h0.9c0.3,0,0.5-0.2,0.5-0.5   C776,365.5,775.8,365.3,775.5,365.3z"
+   fill="#1295D3" />
+	<path
+   id="path280"
+   d="M766.5,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.3-0.5,0.6v1.8   C766,360.5,766.2,360.7,766.5,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path282"
+   d="M768.3,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5s-0.5,0.2-0.5,0.5v1.8   C767.8,360.5,768,360.7,768.3,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path284"
+   d="M770.1,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C769.6,360.5,769.8,360.7,770.1,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path286"
+   d="M771.9,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C771.5,360.5,771.7,360.7,771.9,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path288"
+   d="M773.7,360.7c0.3,0,0.5-0.2,0.5-0.5v-1.8c0-0.3-0.2-0.5-0.5-0.5c-0.3,0-0.5,0.2-0.5,0.5v1.8   C773.3,360.5,773.5,360.7,773.7,360.7z"
+   fill="#FFFFFF" />
+	<path
+   id="path290"
+   d="M703.1,368h-39c-0.8,0-1.4-0.6-1.4-1.4v-10.8c0-0.8,0.6-1.4,1.4-1.4h39.1c0.8,0,1.4,0.6,1.4,1.4v10.8   C704.6,367.4,703.9,368,703.1,368z"
+   fill="#1295D3" />
+</g>
+<rect
+   id="rect294"
+   height="30.2"
+   width="112.5"
+   fill="#ECECEB"
+   y="191.6"
+   x="403.2" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 421.053 210.7214)"
+   id="text6_21_">Abstraction</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 429.8656 119.2019)"
+   id="text6_22_">Software</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 426.5337 303.7607)"
+   id="text6_23_">Hardware</text>
+</svg>
