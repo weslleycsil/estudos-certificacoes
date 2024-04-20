@@ -39,14 +39,39 @@ Prova prevista para ser realizada no dia 21/04/2024
 
 [Section 3. Introduction to Software-Defined Networking](sections/3/)
 
+- [Management, Control and Data Plane](sections/3/8.md)
+- [Software-Defined Networking](sections/3/9.md)
+
 [Section 4. About NSX-T Data Center](sections/4/)
+
+- [Introduction to NSX-T Data Center](sections/4/10.md)
+- [NSX-T Data Center Components](sections/4/11.md)
+- [NSX-T Data Center Architecture ](sections/4/12.md)
 
 [Section 5. NSX Logical Switching](sections/5/)
 
+- [Benefits of NSX-T Data Center Logical Switching](sections/5/13.md)
+- [NSX Logical Switching Components](sections/5/14.md)
+- [NSX Logical Switching](sections/5/15.md)
+
 [Section 6. NSX Logical Routing](sections/6/)
+
+- [Benefits of NSX-T Data Center Logical Routing](sections/6/16.md)
+- [NSX Routing Components](sections/6/17.md)
+- [NSX Logical Routing](sections/6/18.md)
 
 [Section 7. NSX Security](sections/7/)
 
+- [NSX Micro-Segmentation](sections/7/19.md)
+- [Zero-Trust Security](sections/7/20.md)
+- [NSX Firewalls](sections/7/21.md)
+
 [Section 8. NSX Services](sections/8/)
+
+- [NSX DHCP](sections/8/22.md)
+- [NSX DNS](sections/8/23.md)
+- [NSX NAT](sections/8/24.md)
+- [NSX Load Balancing](sections/8/25.md)
+- [NSX VPNs](sections/8/26.md)
 
 [Section 9. Virtual Cloud Network](sections/9/)
