@@ -75,3 +75,5 @@ Prova prevista para ser realizada no dia 21/04/2024
 - [NSX VPNs](sections/8/26.md)
 
 [Section 9. Virtual Cloud Network](sections/9/)
+
+- [Virtual Cloud Network](sections/9/27.md)

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="DNS.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 774.3 198"
+   viewBox="0 0 729.00001 199.97162"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"
+   width="729"
+   height="199.97162"><metadata
+   id="metadata155"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs153">
+		
+	
+			
+			
+			
+		
+		
+	
+			
+			
+			
+		<clipPath
+   id="clip4"><path
+     id="path14"
+     clip-rule="evenodd"
+     fill-rule="evenodd"
+     d="M 598,157 H 718 V 278 H 598 Z" /></clipPath><clipPath
+   id="clip5"><path
+     id="path17"
+     clip-rule="evenodd"
+     fill-rule="evenodd"
+     d="M 598,157 H 718 V 278 H 598 Z" /></clipPath><clipPath
+   id="clip6"><path
+     id="path20"
+     clip-rule="evenodd"
+     fill-rule="evenodd"
+     d="M 598,157 H 718 V 278 H 598 Z" /></clipPath><rect
+   id="rect942-3-2"
+   height="53.123184"
+   width="316.80173"
+   y="16.06101"
+   x="52.198284" /><rect
+   id="rect934"
+   height="53.123184"
+   width="316.80173"
+   y="16.06101"
+   x="52.198284" /></defs><sodipodi:namedview
+   inkscape:document-rotation="0"
+   inkscape:current-layer="g148"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="1912"
+   inkscape:cy="160.49502"
+   inkscape:cx="385.46262"
+   inkscape:zoom="1.4671316"
+   showgrid="false"
+   id="namedview151"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   id="g148"
+   transform="translate(-22.700001,8.9463749)">
+	<rect
+   id="rect2"
+   height="94.599998"
+   width="93.099998"
+   fill="#1a428a"
+   y="47.700001"
+   x="658.59998" />
+	<rect
+   id="rect4"
+   height="94.599998"
+   width="93.099998"
+   fill="#717074"
+   y="47.700001"
+   x="22.700001" />
+	
+	<text
+   id="text8"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(663.7249,34.1028)">DNS Client</text>
+
+
+	<text
+   id="text10"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(24.6615,34.1028)">DNS Server</text>
+
+
+	<text
+   id="text12"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(182.3953,80.9572)">DNS Request</text>
+
+
+	<text
+   id="text14"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(490.0406,80.9572)">DNS Request</text>
+
+
+	<text
+   id="text16"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(192.1714,135.0357)">DNS Reply</text>
+
+
+	<text
+   id="text18"
+   font-size="16px"
+   font-family="Metropolis-Regular"
+   transform="translate(489.0645,135.0357)">DNS Forward</text>
+
+
+	<text
+   style="font-size:16px;font-family:Metropolis-Regular"
+   id="text20"
+   font-size="16px"
+   x="213.91319"
+   y="3.2880001">DNS Request: What is the IP address for vmbeans.com?</text>
+
+
+	<text
+   y="187.8065"
+   x="199.8575"
+   style="font-size:16px;font-family:Metropolis-Regular"
+   id="text22"
+   font-size="16px">DNS Reply: The IP address for vmbeans.com is 172.20.10.10</text>
+
+
+	<text
+   y="142.7883"
+   x="340.90625"
+   inkscape:transform-center-y="2.0448064"
+   inkscape:transform-center-x="-20.448064"
+   id="text24"
+   font-size="16px"
+   font-family="Metropolis-Regular">DNS Forwarder</text>
+
+
+	<g
+   id="g34">
+		<polygon
+   id="polygon26"
+   points="665.2,55 745.2,55 745.2,134.3 743.1,134.3 743.1,57.1 667.3,57.1 667.3,132.9 733.8,132.9 733.8,135 665.2,135 "
+   fill="#ffffff" />
+		<g
+   id="g32">
+			<path
+   id="path28"
+   d="m 689.2,90.3 h 1.8 l 3.6,9 3.6,-9 h 1.8 l -4.6,10.9 h -1.5 z"
+   fill="#ffffff" />
+			<path
+   id="path30"
+   d="m 718.8,94.3 v 6.9 h -1.6 v -6.7 c 0,-1.8 -1,-3 -2.5,-3 -1.7,0 -2.9,1.2 -2.9,2.8 v 6.9 h -1.6 v -6.7 c 0,-1.8 -1,-3 -2.5,-3 -1.7,0 -2.9,1.2 -2.9,2.8 v 6.9 h -1.6 V 90.3 h 1.6 v 1.6 c 0.5,-1.1 1.7,-1.9 3.2,-1.9 1.6,0 2.9,0.9 3.5,2.3 0.4,-1.4 1.9,-2.3 3.5,-2.3 2.2,0.1 3.8,1.8 3.8,4.3 z"
+   fill="#ffffff" />
+		</g>
+	</g>
+	<g
+   id="g76">
+		<g
+   id="g38">
+			<polygon
+   id="polygon36"
+   points="86.5,118.3 103.5,118.3 103.5,73.3 86.5,73.3 86.5,70.8 106,70.8 106,120.8 86.5,120.8 "
+   fill="#ffffff" />
+		</g>
+		<g
+   id="g42">
+			<path
+   id="path40"
+   d="m 80.1,70.8 v 50 H 58.2 v -50 h 21.9 m 2.5,-2.5 H 55.7 v 55 h 26.9 z"
+   fill="#ffffff" />
+		</g>
+		<g
+   id="g52">
+			<rect
+   id="rect44"
+   height="2.5"
+   width="15.4"
+   fill="#ffffff"
+   y="108.4"
+   x="61.5" />
+			<rect
+   id="rect46"
+   height="2.5"
+   width="15.4"
+   fill="#ffffff"
+   y="98.199997"
+   x="61.5" />
+			<rect
+   id="rect48"
+   height="2.5"
+   width="15.4"
+   fill="#ffffff"
+   y="88.400002"
+   x="61.5" />
+			<rect
+   id="rect50"
+   height="2.5"
+   width="15.4"
+   fill="#ffffff"
+   y="78.5"
+   x="61.5" />
+		</g>
+		<rect
+   id="rect54"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="110.8"
+   x="38.400002" />
+		<rect
+   id="rect56"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="100.6"
+   x="38.400002" />
+		<rect
+   id="rect58"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="90.800003"
+   x="38.400002" />
+		<rect
+   id="rect60"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="80.900002"
+   x="38.400002" />
+		<rect
+   id="rect62"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="110.8"
+   x="86.5" />
+		<rect
+   id="rect64"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="100.6"
+   x="86.5" />
+		<rect
+   id="rect66"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="90.800003"
+   x="86.5" />
+		<rect
+   id="rect68"
+   height="2.5"
+   width="13.5"
+   fill="#ffffff"
+   y="80.900002"
+   x="86.5" />
+		<g
+   id="g74">
+			<g
+   id="g72">
+				<polygon
+   id="polygon70"
+   points="32.4,70.8 52,70.8 52,73.3 34.9,73.3 34.9,118.3 52,118.3 52,120.8 32.4,120.8 "
+   fill="#ffffff" />
+			</g>
+		</g>
+	</g>
+	
+	<g
+   id="g88">
+		<g
+   id="g86">
+			<line
+   id="line80"
+   y2="88.400002"
+   x2="339.39999"
+   y1="88.400002"
+   x1="134.60001"
+   stroke-miterlimit="10"
+   stroke="#78be20"
+   fill="none" />
+			<g
+   id="g84">
+				<polygon
+   id="polygon82"
+   points="136,83.4 136,93.3 127.4,88.4 "
+   fill="#78be20" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="g98">
+		<g
+   id="g96">
+			<line
+   id="line90"
+   y2="88.400002"
+   x2="647.09998"
+   y1="88.400002"
+   x1="442.20001"
+   stroke-miterlimit="10"
+   stroke="#78be20"
+   fill="none" />
+			<g
+   id="g94">
+				<polygon
+   id="polygon92"
+   points="443.7,83.4 443.7,93.3 435.1,88.4 "
+   fill="#78be20" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="g108">
+		<g
+   id="g106">
+			<line
+   id="line100"
+   y2="115.4"
+   x2="332.20001"
+   y1="115.4"
+   x1="127.4"
+   stroke-miterlimit="10"
+   stroke="#78be20"
+   fill="none" />
+			<g
+   id="g104">
+				<polygon
+   id="polygon102"
+   points="330.8,110.4 330.8,120.4 339.4,115.4 "
+   fill="#78be20" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="g118">
+		<g
+   id="g116">
+			<line
+   id="line110"
+   y2="115.4"
+   x2="639.90002"
+   y1="115.4"
+   x1="435.10001"
+   stroke-miterlimit="10"
+   stroke="#78be20"
+   fill="none" />
+			<g
+   id="g114">
+				<polygon
+   id="polygon112"
+   points="638.4,110.4 638.4,120.4 647.1,115.4 "
+   fill="#78be20" />
+			</g>
+		</g>
+	</g>
+	
+	
+<g
+   style="stroke-width:1.45161"
+   transform="matrix(0.70443279,0,0,0.67369051,-75.068849,-61.116533)"
+   clip-path="url(#clip4)"
+   id="g51"><g
+     style="stroke-width:1.45161"
+     clip-path="url(#clip5)"
+     id="g49"><g
+       style="stroke-width:1.45161"
+       clip-path="url(#clip6)"
+       id="g47"><path
+         style="stroke-width:2.10717"
+         d="m 60,3.15789 c 31.3457,0 56.842,25.49641 56.842,56.84211 0,31.3457 -25.4963,56.842 -56.842,56.842 C 28.6543,116.842 3.15789,91.3457 3.15789,60 3.15789,28.6543 28.6543,3.15789 60,3.15789 M 60,0 C 26.8664,0 0,26.8664 0,60 0,93.1336 26.8664,120 60,120 93.1336,120 120,93.1336 120,60 120,26.8664 93.1336,0 60,0 Z"
+         fill="#0070c0"
+         transform="matrix(1,0,0,1.00833,598,157)"
+         id="path37" /><path
+         style="stroke-width:2.10717"
+         d="M 35.4753,56.8421 H 12.3012 v 6.3158 H 35.4753 V 68.502 L 50.1959,60 35.4753,51.498 Z"
+         fill="#0070c0"
+         transform="matrix(1,0,0,1.00833,598,157)"
+         id="path39" /><path
+         style="stroke-width:2.10717"
+         d="M 107.699,56.8421 H 84.5247 V 51.498 L 69.804,60 84.5247,68.502 v -5.3441 h 23.1743 z"
+         fill="#0070c0"
+         transform="matrix(1,0,0,1.00833,598,157)"
+         id="path41" /><path
+         style="stroke-width:2.10717"
+         d="m 51.498,28.0324 h 5.3441 v 23.1741 h 6.3158 V 28.0324 H 68.502 L 60,13.3117 Z"
+         fill="#0070c0"
+         transform="matrix(1,0,0,1.00833,598,157)"
+         id="path43" /><path
+         style="stroke-width:2.10717"
+         d="M 63.1579,68.7935 H 56.8421 V 91.9676 H 51.498 L 60,106.688 68.502,91.9676 h -5.3441 z"
+         fill="#0070c0"
+         transform="matrix(1,0,0,1.00833,598,157)"
+         id="path45" /></g></g></g><text
+   y="0"
+   x="51.074219"
+   transform="translate(280.45573,10.008127)"
+   style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect942-3-2);fill:#1a428a;"
+   id="text940-7-2"
+   xml:space="preserve"><tspan
+     x="121.28711"
+     y="30.657832"><tspan
+       style="text-align:center;text-anchor:middle;fill:#1a428a">Tier-1/Tier-0 Gateway</tspan></tspan></text></g>
+</svg>
