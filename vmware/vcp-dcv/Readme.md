@@ -26,9 +26,9 @@ Prova realizada no dia 14/04/2024
 - [Summary 4 - Deploying and Configuring vCenter](summaries/4.md)
 - [Summary 5 - Configuring vSphere Networking](summaries/5.md)
 - [Summary 6 - Configuring vSphere Storage](summaries/6.md)
-- [Summary 7 - Deploying Virtual Machines](summaries/7.md)
-- [Summary 8 - Managing Virtual Machines](summaries/8.md)
-- [Summary 9 - Deploying and Configuring vSphere Clusters](summaries/9.md)
+- [Summary 7 - Deploying Virtual Machines](#)
+- [Summary 8 - Managing Virtual Machines](#)
+- [Summary 9 - Deploying and Configuring vSphere Clusters](#)
 - [Summary 10 - Managing the vSphere Lifecycle](summaries/10.md)
 
 ## Questions
@@ -45,4 +45,4 @@ Prova realizada no dia 14/04/2024
 
 # Extras
 
-[Guia Gratuito para a Prova]()
+[Guia Gratuito para a Prova](guias/vcp-dcv-vsphere-8-community-study-guide.pdf)
