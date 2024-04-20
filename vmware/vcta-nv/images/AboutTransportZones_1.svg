@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 772 448.5"
+   enable-background="new 0 0 772 448.5"
+   xml:space="preserve"
+   sodipodi:docname="AboutTransportZones_1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata187"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs185" /><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview183"
+   showgrid="false"
+   inkscape:zoom="1.3588083"
+   inkscape:cx="386"
+   inkscape:cy="224.25"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g180" />
+<g
+   id="g180">
+	<line
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="103"
+   y1="59.4"
+   x2="171.4"
+   y2="59.4"
+   id="line2" />
+	<line
+   style="stroke-width:0.999993"
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="340.99335"
+   y1="58.801579"
+   x2="357.19327"
+   y2="58.801579"
+   id="line4" />
+	
+	<line
+   style="stroke-width:0.999999"
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="477.87006"
+   y1="57.192188"
+   x2="634.87018"
+   y2="57.192188"
+   id="line8" />
+	<path
+   fill="#1b8ece"
+   d="m 69.2,24.3 c -8.5,0 -15.8,5.7 -19,13.9 -2.2,-1 -4.5,-1.6 -7.1,-1.7 -0.1,0 -0.3,0 -0.4,0 -8.4,0 -15.4,5.9 -17.1,14 C 24.5,50.2 23.3,50 22.2,50 22.1,50 22,50 21.9,50 14.4,50 8.2,56.1 8,63.7 c -0.2,7.7 6.9,14.8 14.5,15 0.2,0 0.8,0 1.6,0 9.3,0 53.2,-0.2 62.4,-0.2 0.9,0 1.4,0 1.6,0 0.1,0 0.2,0 0.3,0 7.8,0 14.3,-7.4 14.5,-16.5 0.2,-9 -5.6,-16.5 -13.2,-17.2 -1,-11.2 -9.5,-20.1 -20,-20.4 -0.2,-0.1 -0.4,-0.1 -0.5,-0.1 z"
+   id="path10" />
+	<text
+   y="63.122803"
+   x="36.5042"
+   fill="#ffffff"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text12">Physical</text>
+	<text
+   transform="matrix(1 0 0 1 262.4543 374.2426)"
+   font-family="'Metropolis-Regular'"
+   font-size="12px"
+   id="text14">Host 1</text>
+	<text
+   transform="matrix(1 0 0 1 257.1752 432.8481)"
+   font-family="'Metropolis-Regular'"
+   font-size="12px"
+   id="text16">App VM</text>
+	<text
+   style="text-anchor:middle;text-align:center;"
+   y="270.67761"
+   x="317.41074"
+   inkscape:transform-center-y="13.246902"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text18"><tspan
+     y="270.67761"
+     x="285.47421"
+     id="tspan921"
+     sodipodi:role="line">Overlay </tspan><tspan
+     y="285.67761"
+     x="285.47421"
+     id="tspan923"
+     sodipodi:role="line">Segment 1</tspan></text>
+	<text
+   style="text-align:center;text-anchor:middle"
+   y="269.95883"
+   x="458.14908"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text20"><tspan
+     y="269.95883"
+     x="458.14908"
+     id="tspan1042"
+     sodipodi:role="line">Overlay</tspan><tspan
+     y="284.95883"
+     x="458.14908"
+     id="tspan1044"
+     sodipodi:role="line">Segment 2</tspan></text>
+	<path
+   fill="#1b8ece"
+   d="m 696.3,24.3 c -8.5,0 -15.8,5.7 -19,13.9 -2.2,-1 -4.5,-1.6 -7.1,-1.7 -0.1,0 -0.3,0 -0.4,0 -8.4,0 -15.4,5.9 -17.1,14 -1.1,-0.3 -2.3,-0.5 -3.4,-0.5 -0.1,0 -0.2,0 -0.3,0 -7.5,0 -13.7,6.1 -13.9,13.7 -0.2,7.7 6.9,14.8 14.5,15 0.2,0 0.8,0 1.6,0 9.3,0 53.2,-0.2 62.4,-0.2 0.9,0 1.4,0 1.6,0 0.1,0 0.2,0 0.3,0 7.8,0 14.3,-7.4 14.5,-16.5 0.2,-9 -5.6,-16.5 -13.2,-17.2 -1,-11.2 -9.5,-20.1 -20,-20.4 -0.2,-0.1 -0.3,-0.1 -0.5,-0.1 z"
+   id="path22" />
+	<text
+   y="63.122803"
+   x="663.65698"
+   fill="#ffffff"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text24">Physical</text>
+	
+		<rect
+   style="fill:none;stroke:#387c2c;stroke-width:1"
+   x="181.32335"
+   y="29.703239"
+   fill="#ffffff"
+   stroke="#1B8ECE"
+   stroke-miterlimit="10"
+   stroke-dasharray="4"
+   width="414.82346"
+   height="58.5"
+   id="rect26" />
+	<rect
+   x="230.7"
+   y="360.6"
+   fill="none"
+   stroke="#1B8ECE"
+   stroke-miterlimit="10"
+   width="97.8"
+   height="78.4"
+   id="rect28" />
+	
+		<rect
+   style="stroke:#0091da"
+   x="181.8"
+   y="167.6"
+   fill="none"
+   stroke="#397D32"
+   stroke-miterlimit="10"
+   stroke-dasharray="4"
+   width="408.2"
+   height="280.4"
+   id="rect30" />
+	<text
+   y="44.488899"
+   x="200.59891"
+   style="fill:#387c2c"
+   font-family="Metropolis-Regular"
+   font-size="14px"
+   id="text32">VLAN</text>
+	<text
+   y="61.28891"
+   x="186.4989"
+   style="fill:#387c2c"
+   font-family="Metropolis-Regular"
+   font-size="14px"
+   id="text34">Transport </text>
+	<text
+   y="78.088898"
+   x="203.799"
+   style="fill:#387c2c"
+   font-family="Metropolis-Regular"
+   font-size="14px"
+   id="text36">Zone</text>
+	<text
+   style="fill:#0091da"
+   transform="translate(191.1933,186.1909)"
+   fill="#397D32"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text38">Overlay Transport Zone </text>
+	
+		
+	
+	
+	
+	
+	
+	<path
+   fill="#FFFFFF"
+   stroke="#397D32"
+   stroke-miterlimit="10"
+   d="M385.9,31.3c-15.5,0-28.1,12.6-28.1,28.1s12.6,28.1,28.1,28.1   S414,74.9,414,59.4S401.3,31.3,385.9,31.3L385.9,31.3z"
+   id="path52" />
+	<g
+   id="g58">
+		<rect
+   x="398.2"
+   y="57.4"
+   fill="#397D32"
+   width="9.5"
+   height="4"
+   id="rect54" />
+		<polygon
+   fill="#397D32"
+   points="398.2,59.5 398.2,63.8 394.4,61.6 390.7,59.5 394.4,57.3 398.2,55.1   "
+   id="polygon56" />
+	</g>
+	<g
+   id="g64">
+		<rect
+   x="383.8"
+   y="45.6"
+   fill="#397D32"
+   width="4"
+   height="9.5"
+   id="rect60" />
+		<polygon
+   fill="#397D32"
+   points="385.9,45.6 381.5,45.6 383.7,41.9 385.9,38.1 388,41.9 390.2,45.6   "
+   id="polygon62" />
+	</g>
+	<g
+   id="g70">
+		<rect
+   x="383.8"
+   y="63.9"
+   fill="#397D32"
+   width="4"
+   height="9.5"
+   id="rect66" />
+		<polygon
+   fill="#397D32"
+   points="385.9,73.4 381.5,73.4 383.7,77 385.9,80.8 388,77 390.2,73.4   "
+   id="polygon68" />
+	</g>
+	<g
+   id="g76">
+		<rect
+   x="364.7"
+   y="57.5"
+   fill="#397D32"
+   width="9.5"
+   height="4"
+   id="rect72" />
+		<polygon
+   fill="#397D32"
+   points="374.1,59.5 374.1,63.8 377.9,61.6 381.7,59.5 377.9,57.3 374.1,55.1   "
+   id="polygon74" />
+	</g>
+	<path
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   d="M385.9,198.1c-15.5,0-28.1,12.6-28.1,28.1s12.6,28.1,28.1,28.1   s28.1-12.6,28.1-28.1S401.3,198.1,385.9,198.1L385.9,198.1z"
+   id="path78" />
+	<g
+   id="g84">
+		<rect
+   x="398.2"
+   y="224.2"
+   fill="#194389"
+   width="9.5"
+   height="4"
+   id="rect80" />
+		<polygon
+   fill="#194389"
+   points="398.2,226.2 398.2,230.6 394.4,228.3 390.7,226.2 394.4,224.1 398.2,221.8   "
+   id="polygon82" />
+	</g>
+	<g
+   id="g90">
+		<rect
+   x="383.8"
+   y="212.3"
+   fill="#194389"
+   width="4"
+   height="9.5"
+   id="rect86" />
+		<polygon
+   fill="#194389"
+   points="385.9,212.3 381.5,212.3 383.7,208.6 385.9,204.8 388,208.6 390.2,212.3   "
+   id="polygon88" />
+	</g>
+	<g
+   id="g96">
+		<rect
+   x="383.8"
+   y="230.6"
+   fill="#194389"
+   width="4"
+   height="9.5"
+   id="rect92" />
+		<polygon
+   fill="#194389"
+   points="385.9,240.1 381.5,240.1 383.7,243.8 385.9,247.6 388,243.8 390.2,240.1   "
+   id="polygon94" />
+	</g>
+	<g
+   id="g102">
+		<rect
+   x="364.7"
+   y="224.3"
+   fill="#194389"
+   width="9.5"
+   height="4"
+   id="rect98" />
+		<polygon
+   fill="#194389"
+   points="374.1,226.2 374.1,230.6 377.9,228.3 381.7,226.2 377.9,224.1 374.1,221.8   "
+   id="polygon100" />
+	</g>
+	<g
+   id="g112">
+		<polygon
+   fill="#1B8ECE"
+   points="291.9,417.1 262.2,417.1 262.2,382.4 296.9,382.4 296.9,416.8 296,416.8 296,383.3 263.1,383.3     263.1,416.2 291.9,416.2   "
+   id="polygon104" />
+		<g
+   id="g110">
+			<path
+   fill="#1B8ECE"
+   d="M272.6,397.7h0.8l1.6,3.9l1.5-3.9h0.8l-2,4.7h-0.7L272.6,397.7z"
+   id="path106" />
+			<path
+   fill="#1B8ECE"
+   d="M285.5,399.4v3h-0.7v-2.9c0-0.8-0.4-1.3-1.1-1.3s-1.3,0.5-1.3,1.2v3h-0.7v-2.9c0-0.8-0.4-1.3-1.1-1.3     s-1.3,0.5-1.3,1.2v3h-0.7v-4.7h0.7v0.7c0.2-0.5,0.7-0.8,1.4-0.8c0.7,0,1.3,0.4,1.5,1c0.2-0.6,0.8-1,1.5-1     C284.8,397.6,285.5,398.4,285.5,399.4z"
+   id="path108" />
+		</g>
+	</g>
+	<text
+   transform="matrix(1 0 0 1 475.143 374.2426)"
+   font-family="'Metropolis-Regular'"
+   font-size="12px"
+   id="text114">Host 2</text>
+	<text
+   transform="matrix(1 0 0 1 469.864 432.8481)"
+   font-family="'Metropolis-Regular'"
+   font-size="12px"
+   id="text116">Web VM</text>
+	<rect
+   x="443.4"
+   y="360.6"
+   fill="none"
+   stroke="#1B8ECE"
+   stroke-miterlimit="10"
+   width="97.8"
+   height="78.4"
+   id="rect118" />
+	<g
+   id="g128">
+		<polygon
+   fill="#194389"
+   points="504.6,417.1 474.9,417.1 474.9,382.4 509.6,382.4 509.6,416.8 508.7,416.8 508.7,383.3     475.8,383.3 475.8,416.2 504.6,416.2   "
+   id="polygon120" />
+		<g
+   id="g126">
+			<path
+   fill="#194389"
+   d="M485.3,397.7h0.8l1.6,3.9l1.5-3.9h0.8l-2,4.7h-0.7L485.3,397.7z"
+   id="path122" />
+			<path
+   fill="#194389"
+   d="M498.2,399.4v3h-0.7v-2.9c0-0.8-0.4-1.3-1.1-1.3c-0.7,0-1.3,0.5-1.3,1.2v3h-0.7v-2.9     c0-0.8-0.4-1.3-1.1-1.3c-0.7,0-1.3,0.5-1.3,1.2v3h-0.7v-4.7h0.7v0.7c0.2-0.5,0.7-0.8,1.4-0.8s1.3,0.4,1.5,1c0.2-0.6,0.8-1,1.5-1     C497.5,397.6,498.2,398.4,498.2,399.4z"
+   id="path124" />
+		</g>
+	</g>
+	<g
+   id="g148">
+		<g
+   id="g132">
+			<path
+   fill="#1B8ECE"
+   d="M301.9,294.7v44.8h-44.8v-44.8H301.9 M303.1,293.5H256v47.1h47.1V293.5L303.1,293.5z"
+   id="path130" />
+		</g>
+		<g
+   id="g146">
+			<polygon
+   fill="#1B8ECE"
+   points="261.4,302.3 268.4,296.7 268.4,299.5 279.6,299.5 279.6,305.1 268.4,305.1 268.4,307.9    "
+   id="polygon134" />
+			<polygon
+   fill="#1B8ECE"
+   points="261.4,314.1 268.4,308.6 268.4,311.4 279.6,311.4 279.6,316.9 268.4,316.9 268.4,319.7    "
+   id="polygon136" />
+			<polygon
+   fill="#1B8ECE"
+   points="261.4,326 268.4,320.4 268.4,323.2 279.6,323.2 279.6,328.7 268.4,328.7 268.4,331.5    "
+   id="polygon138" />
+			<polygon
+   fill="#1B8ECE"
+   points="297.7,308.1 290.7,302.6 290.7,305.3 279.6,305.3 279.6,310.9 290.7,310.9 290.7,313.7    "
+   id="polygon140" />
+			<polygon
+   fill="#1B8ECE"
+   points="297.7,320 290.7,314.4 290.7,317.2 279.6,317.2 279.6,322.7 290.7,322.7 290.7,325.5    "
+   id="polygon142" />
+			<polygon
+   fill="#1B8ECE"
+   points="297.7,331.8 290.7,326.2 290.7,329 279.6,329 279.6,334.6 290.7,334.6 290.7,337.3    "
+   id="polygon144" />
+		</g>
+	</g>
+	<g
+   id="g168">
+		<g
+   id="g152">
+			<path
+   fill="#1B8ECE"
+   d="M514.6,294.7v44.8h-44.8v-44.8H514.6 M515.8,293.5h-47.1v47.1h47.1V293.5L515.8,293.5z"
+   id="path150" />
+		</g>
+		<g
+   id="g166">
+			<polygon
+   fill="#1B8ECE"
+   points="474.1,302.3 481.1,296.7 481.1,299.5 492.2,299.5 492.2,305.1 481.1,305.1 481.1,307.9    "
+   id="polygon154" />
+			<polygon
+   fill="#1B8ECE"
+   points="474.1,314.1 481.1,308.6 481.1,311.4 492.2,311.4 492.2,316.9 481.1,316.9 481.1,319.7    "
+   id="polygon156" />
+			<polygon
+   fill="#1B8ECE"
+   points="474.1,326 481.1,320.4 481.1,323.2 492.2,323.2 492.2,328.7 481.1,328.7 481.1,331.5    "
+   id="polygon158" />
+			<polygon
+   fill="#1B8ECE"
+   points="510.4,308.1 503.4,302.6 503.4,305.3 492.2,305.3 492.2,310.9 503.4,310.9 503.4,313.7    "
+   id="polygon160" />
+			<polygon
+   fill="#1B8ECE"
+   points="510.4,320 503.4,314.4 503.4,317.2 492.2,317.2 492.2,322.7 503.4,322.7 503.4,325.5    "
+   id="polygon162" />
+			<polygon
+   fill="#1B8ECE"
+   points="510.4,331.8 503.4,326.2 503.4,329 492.2,329 492.2,334.6 503.4,334.6 503.4,337.3    "
+   id="polygon164" />
+		</g>
+	</g>
+	<line
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="279.6"
+   y1="342"
+   x2="279.6"
+   y2="359.1"
+   id="line170" />
+	<line
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="492.2"
+   y1="342"
+   x2="492.2"
+   y2="359.1"
+   id="line172" />
+	<polyline
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   points="279.6,290.3 279.6,226.2 352.7,226.2  "
+   id="polyline174" />
+	<polyline
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   points="492.2,290.3 492.2,226.2 419.1,226.2  "
+   id="polyline176" />
+	<line
+   fill="none"
+   stroke="#194389"
+   stroke-miterlimit="10"
+   x1="385.8"
+   y1="92.5"
+   x2="385.8"
+   y2="193.1"
+   id="line178" />
+<text
+   id="text919"
+   y="287.75214"
+   x="294.37558"
+   style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+   xml:space="preserve"><tspan
+     y="287.75214"
+     x="294.37558"
+     id="tspan917"
+     sodipodi:role="line" /></text><text
+   id="text18-7"
+   font-size="12px"
+   font-family="Metropolis-Regular"
+   inkscape:transform-center-y="13.246902"
+   x="316.70407"
+   y="11.479187"
+   style="text-align:center;text-anchor:middle"><tspan
+     sodipodi:role="line"
+     id="tspan921-5"
+     x="316.70407"
+     y="11.479187">VLAN</tspan><tspan
+     sodipodi:role="line"
+     id="tspan923-2"
+     x="316.70407"
+     y="26.479187">Segment 1</tspan></text><g
+   style="fill:#78be20"
+   transform="translate(37.293332,-257.19842)"
+   id="g148-3"><g
+     style="fill:#78be20"
+     id="g132-9"><path
+       style="fill:#78be20"
+       id="path130-3"
+       d="m 301.9,294.7 v 44.8 h -44.8 v -44.8 h 44.8 m 1.2,-1.2 H 256 v 47.1 h 47.1 z"
+       fill="#1b8ece" /></g><g
+     style="fill:#78be20"
+     id="g146-5"><polygon
+       style="fill:#78be20"
+       id="polygon134-2"
+       points="279.6,305.1 268.4,305.1 268.4,307.9 261.4,302.3 268.4,296.7 268.4,299.5 279.6,299.5 "
+       fill="#1b8ece" /><polygon
+       style="fill:#78be20"
+       id="polygon136-4"
+       points="279.6,316.9 268.4,316.9 268.4,319.7 261.4,314.1 268.4,308.6 268.4,311.4 279.6,311.4 "
+       fill="#1b8ece" /><polygon
+       style="fill:#78be20"
+       id="polygon138-4"
+       points="279.6,328.7 268.4,328.7 268.4,331.5 261.4,326 268.4,320.4 268.4,323.2 279.6,323.2 "
+       fill="#1b8ece" /><polygon
+       style="fill:#78be20"
+       id="polygon140-4"
+       points="279.6,310.9 290.7,310.9 290.7,313.7 297.7,308.1 290.7,302.6 290.7,305.3 279.6,305.3 "
+       fill="#1b8ece" /><polygon
+       style="fill:#78be20"
+       id="polygon142-5"
+       points="279.6,322.7 290.7,322.7 290.7,325.5 297.7,320 290.7,314.4 290.7,317.2 279.6,317.2 "
+       fill="#1b8ece" /><polygon
+       style="fill:#78be20"
+       id="polygon144-8"
+       points="279.6,334.6 290.7,334.6 290.7,337.3 297.7,331.8 290.7,326.2 290.7,329 279.6,329 "
+       fill="#1b8ece" /></g></g><line
+   id="line4-7"
+   y2="59.256432"
+   x2="430.87595"
+   y1="59.256432"
+   x1="414.67603"
+   stroke-miterlimit="10"
+   stroke="#194389"
+   fill="none"
+   style="stroke-width:0.999993" /><text
+   style="text-align:center;text-anchor:middle"
+   y="12.176132"
+   x="453.76196"
+   inkscape:transform-center-y="13.246902"
+   font-family="Metropolis-Regular"
+   font-size="12px"
+   id="text18-7-1"><tspan
+     y="12.176132"
+     x="453.76196"
+     id="tspan921-5-0"
+     sodipodi:role="line">VLAN</tspan><tspan
+     y="27.176132"
+     x="453.76196"
+     id="tspan923-2-5"
+     sodipodi:role="line">Segment 2</tspan></text><g
+   id="g148-3-0"
+   transform="translate(174.35122,-256.50148)"
+   style="fill:#78be20"><g
+     id="g132-9-7"
+     style="fill:#78be20"><path
+       fill="#1b8ece"
+       d="m 301.9,294.7 v 44.8 h -44.8 v -44.8 h 44.8 m 1.2,-1.2 H 256 v 47.1 h 47.1 z"
+       id="path130-3-2"
+       style="fill:#78be20" /></g><g
+     id="g146-5-5"
+     style="fill:#78be20"><polygon
+       fill="#1b8ece"
+       points="261.4,302.3 268.4,296.7 268.4,299.5 279.6,299.5 279.6,305.1 268.4,305.1 268.4,307.9 "
+       id="polygon134-2-7"
+       style="fill:#78be20" /><polygon
+       fill="#1b8ece"
+       points="261.4,314.1 268.4,308.6 268.4,311.4 279.6,311.4 279.6,316.9 268.4,316.9 268.4,319.7 "
+       id="polygon136-4-9"
+       style="fill:#78be20" /><polygon
+       fill="#1b8ece"
+       points="261.4,326 268.4,320.4 268.4,323.2 279.6,323.2 279.6,328.7 268.4,328.7 268.4,331.5 "
+       id="polygon138-4-2"
+       style="fill:#78be20" /><polygon
+       fill="#1b8ece"
+       points="297.7,308.1 290.7,302.6 290.7,305.3 279.6,305.3 279.6,310.9 290.7,310.9 290.7,313.7 "
+       id="polygon140-4-6"
+       style="fill:#78be20" /><polygon
+       fill="#1b8ece"
+       points="297.7,320 290.7,314.4 290.7,317.2 279.6,317.2 279.6,322.7 290.7,322.7 290.7,325.5 "
+       id="polygon142-5-7"
+       style="fill:#78be20" /><polygon
+       fill="#1b8ece"
+       points="297.7,331.8 290.7,326.2 290.7,329 279.6,329 279.6,334.6 290.7,334.6 290.7,337.3 "
+       id="polygon144-8-5"
+       style="fill:#78be20" /></g></g><line
+   style="stroke-width:0.999998"
+   id="line2-0"
+   y2="59.082935"
+   x2="294.40646"
+   y1="59.082935"
+   x1="254.60648"
+   stroke-miterlimit="10"
+   stroke="#194389"
+   fill="none" /></g>
+</svg>

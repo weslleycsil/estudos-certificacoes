@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="SDN_Architecture.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 473.6 466.7"
+   viewBox="0 0 473.6 466.7"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata1244"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1242" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="233.35001"
+   inkscape:cx="236.8"
+   inkscape:zoom="1.433469"
+   showgrid="false"
+   id="namedview1240"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<rect
+   id="rect1164"
+   height="466.7"
+   width="473.6"
+   fill="#FFFFFF" />
+<rect
+   id="rect1166"
+   height="103.8"
+   width="413.2"
+   stroke-miterlimit="10"
+   stroke="#000000"
+   fill="#ECECEB"
+   y="341.3"
+   x="21.9" />
+<rect
+   id="rect1168"
+   height="27.7"
+   width="118"
+   fill="#1E4488"
+   y="371.4"
+   x="25.9" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#FFFFFF"
+   transform="matrix(1 0 0 1 31.8021 389.2743)"
+   id="text6_7_">Network Device</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 25.9495 361.8018)"
+   id="text6_5_">Infrastructure Layer</text>
+<rect
+   id="rect1172"
+   height="103.8"
+   width="413.2"
+   stroke-miterlimit="10"
+   stroke="#000000"
+   fill="#ECECEB"
+   y="181.4"
+   x="21.9" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 25.9495 201.9117)"
+   id="text6_6_">Control Layer</text>
+
+
+
+
+<rect
+   id="rect1183"
+   height="27.7"
+   width="118"
+   fill="#1E4488"
+   y="371.4"
+   x="167.9" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#FFFFFF"
+   transform="matrix(1 0 0 1 173.7998 389.2743)"
+   id="text6_1_">Network Device</text>
+<rect
+   id="rect1186"
+   height="27.7"
+   width="118"
+   fill="#1E4488"
+   y="413.2"
+   x="96" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#FFFFFF"
+   transform="matrix(1 0 0 1 101.8218 431.0326)"
+   id="text6_3_">Network Device</text>
+<rect
+   id="rect1189"
+   height="27.7"
+   width="118"
+   fill="#1E4488"
+   y="413.2"
+   x="236.1" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#FFFFFF"
+   transform="matrix(1 0 0 1 241.9317 431.0326)"
+   id="text6_4_">Network Device</text>
+<rect
+   id="rect1192"
+   height="27.7"
+   width="118"
+   fill="#1E4488"
+   y="371.4"
+   x="309.9" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#FFFFFF"
+   transform="matrix(1 0 0 1 315.7975 389.2743)"
+   id="text6_2_">Network Device</text>
+<rect
+   id="rect1195"
+   height="80.6"
+   width="244.4"
+   stroke-miterlimit="10"
+   stroke="#000000"
+   fill="#19BFD3"
+   y="194.8"
+   x="178.7"
+   style="fill:#00c1d5" />
+<g
+   transform="translate(12)"
+   id="g1200">
+	<rect
+   id="rect1197"
+   height="27.700001"
+   width="127.7"
+   stroke-miterlimit="10"
+   stroke="#686b70"
+   fill="#ececeb"
+   y="207.7"
+   x="268.79999" />
+	<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="translate(274.6231,225.539)"
+   id="text6_10_">Network Services</text>
+</g>
+<g
+   transform="translate(14)"
+   id="g1205">
+	<rect
+   id="rect1202"
+   height="27.700001"
+   width="127.7"
+   stroke-miterlimit="10"
+   stroke="#686b70"
+   fill="#ececeb"
+   y="214"
+   x="262.5" />
+	<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="translate(268.3664,231.7957)"
+   id="text6_9_">Network Services</text>
+</g>
+
+<rect
+   id="rect1212"
+   height="103.8"
+   width="413.2"
+   stroke-miterlimit="10"
+   stroke="#000000"
+   fill="#ECECEB"
+   y="21.6"
+   x="21.9" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 25.9495 42.0216)"
+   id="text6_15_">Application Layer</text>
+<rect
+   id="rect1215"
+   height="27.7"
+   width="155.3"
+   stroke-miterlimit="10"
+   stroke="#686B70"
+   fill="#F89820"
+   y="44.1"
+   x="262.7" />
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#ffffff"
+   transform="translate(268.5776,61.9519)"
+   id="text6_14_" />
+<rect
+   id="rect1218"
+   height="27.700001"
+   width="155.3"
+   stroke-miterlimit="10"
+   stroke="#686b70"
+   fill="#f89820"
+   y="49.58326"
+   x="258.85681" />
+
+<rect
+   id="rect1221"
+   height="27.700001"
+   width="155.3"
+   stroke-miterlimit="10"
+   stroke="#686b70"
+   fill="#F89820"
+   y="55.599998"
+   x="253.2"
+   style="fill:#f8981d" />
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="14px"
+   font-family="'Metropolis-Regular'"
+   fill="#ffffff"
+   id="text6_12_"
+   x="291.06842"
+   y="73.461098">Applications</text>
+<text
+   enable-background="new    "
+   id="text6_17_"
+   x="182.31659"
+   y="235.60333"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+     id="tspan1224"
+     font-size="14px"
+     font-family="'Metropolis-Regular'"
+     y="235.60333"
+     x="182.31659">Controllers</tspan></text>
+<polygon
+   id="polygon1231"
+   points="264.1,187.7 260.4,187.7 260.4,94.5 264.1,94.5 258.6,87.3 253.1,94.5 256.7,94.5 256.7,187.7   253.1,187.7 258.6,194.8 "
+   fill="#686B70" />
+<polygon
+   id="polygon1233"
+   points="330.4,187.7 326.7,187.7 326.7,94.5 330.4,94.5 324.9,87.3 319.4,94.5 323,94.5 323,187.7   319.4,187.7 324.9,194.8 "
+   fill="#686B70" />
+<polygon
+   id="polygon1235"
+   points="260,364.3 256.3,364.3 256.3,282.7 260,282.7 254.5,275.5 249,282.7 252.6,282.7 252.6,364.3   249,364.3 254.5,371.4 "
+   fill="#686B70" />
+<polygon
+   id="polygon1237"
+   points="395.7,187.7 392,187.7 392,94.5 395.7,94.5 390.2,87.3 384.7,94.5 388.4,94.5 388.4,187.7   384.7,187.7 390.2,194.8 "
+   fill="#686B70" />
+<g
+   transform="translate(10.457035,5.7559848)"
+   id="g1205-9"><rect
+     x="262.5"
+     y="214"
+     fill="#ececeb"
+     stroke="#686b70"
+     stroke-miterlimit="10"
+     width="127.7"
+     height="27.700001"
+     id="rect1202-6" /><text
+     id="text6_9_-9"
+     transform="translate(268.3664,231.7957)"
+     font-family="'Metropolis-Regular'"
+     font-size="14px"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis">Network Services</text></g></svg>

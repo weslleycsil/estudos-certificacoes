@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="Traditional_Network.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 275.5 210.1"
+   viewBox="0 0 275.5 210.1"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata148"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs146" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="203"
+   inkscape:window-x="0"
+   inkscape:cy="105.05"
+   inkscape:cx="137.75"
+   inkscape:zoom="3.1841979"
+   showgrid="false"
+   id="namedview144"
+   inkscape:window-height="480"
+   inkscape:window-width="689"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<rect
+   height="210.1"
+   width="275.5"
+   fill="#FFFFFF"
+   id="rect1060" />
+<polygon
+   id="polygon75"
+   points="159.5,34.4 107.8,34.4 107.8,93.4 159.5,93.4 159.5,34.4 "
+   fill="#3E4044" />
+<polyline
+   id="polyline77"
+   points="158.2,35.7 158.2,92.1 109.2,92.1 109.2,35.7 158.2,35.7 "
+   fill="#FFFFFF" />
+<line
+   id="line79"
+   y2="175"
+   x2="211.9"
+   y1="175"
+   x1="63.6"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#000000"
+   fill="none" />
+<line
+   id="line81"
+   y2="76.8"
+   x2="101.4"
+   y1="141.7"
+   x1="31.3"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#000000"
+   fill="none" />
+<line
+   id="line83"
+   y2="76.8"
+   x2="166"
+   y1="141.7"
+   x1="236"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#000000"
+   fill="none" />
+<text
+   style="line-height:0;-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="12px"
+   font-family="Metropolis-Regular"
+   transform="translate(92.9301,105.5934)"
+   id="text6_1_">Switch/Router</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="12px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 77.234 15.639)"
+   id="text6_2_">Traditional Network</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="7px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 111.0501 43.4096)"
+   id="text6_3_">Control Plane</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="8px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 112.9728 88.8983)"
+   id="text6_4_">Data Plane</text>
+<rect
+   id="rect89"
+   height="14.7"
+   width="42"
+   fill="#811427"
+   y="45.2"
+   x="112.7" />
+<rect
+   id="rect91"
+   height="14.7"
+   width="42"
+   fill="#218FCF"
+   y="66.4"
+   x="112.7" />
+<g
+   id="g97">
+	<polygon
+   id="polygon93"
+   points="140.4,73.8 144.2,71.6 140.4,69.4 140.4,70.8 123.2,70.8 123.2,72.4 140.4,72.4  "
+   fill="#FFFFFF" />
+	<polygon
+   id="polygon95"
+   points="123.2,75.9 126.9,78.1 126.9,76.7 144.2,76.7 144.2,75.1 126.9,75.1 126.9,73.7  "
+   fill="#FFFFFF" />
+</g>
+<polygon
+   id="polygon99"
+   points="140.4,52.6 144.2,50.5 140.4,48.3 140.4,49.6 123.2,49.6 123.2,51.3 140.4,51.3 "
+   fill="#FFFFFF" />
+<polygon
+   id="polygon101"
+   points="123.2,54.7 126.9,56.9 126.9,55.5 144.2,55.5 144.2,53.9 126.9,53.9 126.9,52.5 "
+   fill="#FFFFFF" />
+<polygon
+   id="polygon103"
+   points="58.9,145.5 7.2,145.5 7.2,204.6 58.9,204.6 58.9,145.5 "
+   fill="#3E4044" />
+<polyline
+   id="polyline105"
+   points="57.6,146.9 57.6,203.2 8.6,203.2 8.6,146.9 57.6,146.9 "
+   fill="#FFFFFF" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="7px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 10.4616 154.5634)"
+   id="text6_6_">Control Plane</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="8px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 12.3843 200.0521)"
+   id="text6_5_">Data Plane</text>
+<rect
+   id="rect109"
+   height="14.7"
+   width="42"
+   fill="#811427"
+   y="156.4"
+   x="12.1" />
+<rect
+   id="rect111"
+   height="14.7"
+   width="42"
+   fill="#218FCF"
+   y="177.6"
+   x="12.1" />
+<g
+   id="g117">
+	<polygon
+   id="polygon113"
+   points="39.8,184.9 43.6,182.8 39.8,180.6 39.8,182 22.6,182 22.6,183.6 39.8,183.6  "
+   fill="#FFFFFF" />
+	<polygon
+   id="polygon115"
+   points="22.6,187.1 26.3,189.2 26.3,187.9 43.6,187.9 43.6,186.3 26.3,186.3 26.3,184.9  "
+   fill="#FFFFFF" />
+</g>
+<polygon
+   id="polygon119"
+   points="39.8,163.8 43.6,161.6 39.8,159.4 39.8,160.8 22.6,160.8 22.6,162.4 39.8,162.4 "
+   fill="#FFFFFF" />
+<polygon
+   id="polygon121"
+   points="22.6,165.9 26.3,168.1 26.3,166.7 43.6,166.7 43.6,165.1 26.3,165.1 26.3,163.7 "
+   fill="#FFFFFF" />
+<polygon
+   id="polygon123"
+   points="268.3,145.5 216.6,145.5 216.6,204.6 268.3,204.6 268.3,145.5 "
+   fill="#3E4044" />
+<polyline
+   id="polyline125"
+   points="266.9,146.9 266.9,203.2 217.9,203.2 217.9,146.9 266.9,146.9 "
+   fill="#FFFFFF" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="7px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 219.8007 154.5634)"
+   id="text6_8_">Control Plane</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="8px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 221.7234 200.0521)"
+   id="text6_7_">Data Plane</text>
+<rect
+   id="rect129"
+   height="14.7"
+   width="42"
+   fill="#811427"
+   y="156.4"
+   x="221.4" />
+<rect
+   id="rect131"
+   height="14.7"
+   width="42"
+   fill="#218FCF"
+   y="177.6"
+   x="221.4" />
+<g
+   id="g137">
+	<polygon
+   id="polygon133"
+   points="249.2,184.9 252.9,182.8 249.2,180.6 249.2,182 231.9,182 231.9,183.6 249.2,183.6  "
+   fill="#FFFFFF" />
+	<polygon
+   id="polygon135"
+   points="231.9,187.1 235.7,189.2 235.7,187.9 252.9,187.9 252.9,186.3 235.7,186.3 235.7,184.9  "
+   fill="#FFFFFF" />
+</g>
+<polygon
+   id="polygon139"
+   points="249.2,163.8 252.9,161.6 249.2,159.4 249.2,160.8 231.9,160.8 231.9,162.4 249.2,162.4 "
+   fill="#FFFFFF" />
+<polygon
+   id="polygon141"
+   points="231.9,165.9 235.7,168.1 235.7,166.7 252.9,166.7 252.9,165.1 235.7,165.1 235.7,163.7 "
+   fill="#FFFFFF" />
+</svg>

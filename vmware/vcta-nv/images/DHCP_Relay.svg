@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="746.34448"
+   height="216.12503"
+   overflow="hidden"
+   version="1.1"
+   id="svg83"
+   sodipodi:docname="DHCP_Relay.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata87">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview85"
+     showgrid="false"
+     inkscape:zoom="1.494302"
+     inkscape:cx="369.22562"
+     inkscape:cy="228.31201"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
+  <defs
+     id="defs23">
+    <rect
+       x="12.045758"
+       y="192.73213"
+       width="707.3537"
+       height="109.08103"
+       id="rect1240" />
+    <rect
+       x="178.00954"
+       y="-49.52145"
+       width="288.42899"
+       height="49.52145"
+       id="rect1234" />
+    <rect
+       x="4.6844616"
+       y="352.67303"
+       width="123.13441"
+       height="39.483318"
+       id="rect1036" />
+    <rect
+       x="52.198284"
+       y="16.06101"
+       width="316.80173"
+       height="53.123184"
+       id="rect942" />
+    <clipPath
+       id="clip0">
+      <path
+         d="M 289,91 H 991 V 376 H 289 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <path
+         d="M 361,162 H 472 V 273 H 361 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         d="M 361,162 H 472 V 273 H 361 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         d="M 361,162 H 472 V 273 H 361 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         d="M 598,157 H 718 V 278 H 598 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <path
+         d="M 598,157 H 718 V 278 H 598 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <path
+         d="M 598,157 H 718 V 278 H 598 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path20" />
+    </clipPath>
+    <rect
+       id="rect942-4"
+       height="53.123184"
+       width="316.80173"
+       y="16.06101"
+       x="52.198284" />
+    <rect
+       id="rect955"
+       height="53.123184"
+       width="316.80173"
+       y="16.06101"
+       x="52.198284" />
+    <rect
+       id="rect942-3"
+       height="53.123184"
+       width="316.80173"
+       y="16.06101"
+       x="52.198284" />
+    <rect
+       id="rect984"
+       height="53.123184"
+       width="316.80173"
+       y="16.06101"
+       x="52.198284" />
+    <rect
+       x="52.198284"
+       y="16.06101"
+       width="316.80173"
+       height="53.123184"
+       id="rect942-3-2" />
+    <rect
+       x="52.198284"
+       y="16.06101"
+       width="316.80173"
+       height="53.123184"
+       id="rect1013" />
+  </defs>
+  <g
+     id="g35"
+     clip-path="url(#clip1)"
+     transform="translate(274.34448,-112.48506)">
+    <g
+       id="g33"
+       clip-path="url(#clip2)">
+      <g
+         id="g31"
+         clip-path="url(#clip3)">
+        <path
+           id="path25"
+           fill="#00b050"
+           d="M 456.172,273 H 361 V 162 h 111 v 110.047 h -2.921 V 164.921 H 363.921 v 105.158 h 92.251 z" />
+        <path
+           id="path27"
+           fill="#00b050"
+           d="m 394.363,210.948 h 2.454 l 5.024,12.529 4.934,-12.529 h 2.454 l -6.337,15.099 h -2.103 z" />
+        <path
+           id="path29"
+           fill="#00b050"
+           d="m 435.446,216.439 v 9.608 h -2.193 v -9.32 c 0,-2.454 -1.429,-4.179 -3.478,-4.179 -2.391,0 -4.089,1.609 -4.089,3.882 v 9.608 h -2.193 v -9.311 c 0,-2.454 -1.43,-4.179 -3.479,-4.179 -2.391,0 -4.089,1.609 -4.089,3.882 v 9.608 h -2.193 v -15.099 h 2.193 v 2.22 c 0.755,-1.573 2.391,-2.571 4.377,-2.571 2.274,0 4.062,1.259 4.88,3.209 0.611,-1.959 2.598,-3.209 4.881,-3.209 3.163,0.009 5.383,2.436 5.383,5.851 z" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g51"
+     clip-path="url(#clip4)"
+     transform="matrix(0.70443279,0,0,0.67369051,-85.63212,-46.256362)"
+     style="stroke-width:1.45161">
+    <g
+       id="g49"
+       clip-path="url(#clip5)"
+       style="stroke-width:1.45161">
+      <g
+         id="g47"
+         clip-path="url(#clip6)"
+         style="stroke-width:1.45161">
+        <path
+           id="path37"
+           transform="matrix(1,0,0,1.00833,598,157)"
+           fill="#0070c0"
+           d="m 60,3.15789 c 31.3457,0 56.842,25.49641 56.842,56.84211 0,31.3457 -25.4963,56.842 -56.842,56.842 C 28.6543,116.842 3.15789,91.3457 3.15789,60 3.15789,28.6543 28.6543,3.15789 60,3.15789 M 60,0 C 26.8664,0 0,26.8664 0,60 0,93.1336 26.8664,120 60,120 93.1336,120 120,93.1336 120,60 120,26.8664 93.1336,0 60,0 Z"
+           style="stroke-width:2.10717" />
+        <path
+           id="path39"
+           transform="matrix(1,0,0,1.00833,598,157)"
+           fill="#0070c0"
+           d="M 35.4753,56.8421 H 12.3012 v 6.3158 H 35.4753 V 68.502 L 50.1959,60 35.4753,51.498 Z"
+           style="stroke-width:2.10717" />
+        <path
+           id="path41"
+           transform="matrix(1,0,0,1.00833,598,157)"
+           fill="#0070c0"
+           d="M 107.699,56.8421 H 84.5247 V 51.498 L 69.804,60 84.5247,68.502 v -5.3441 h 23.1743 z"
+           style="stroke-width:2.10717" />
+        <path
+           id="path43"
+           transform="matrix(1,0,0,1.00833,598,157)"
+           fill="#0070c0"
+           d="m 51.498,28.0324 h 5.3441 v 23.1741 h 6.3158 V 28.0324 H 68.502 L 60,13.3117 Z"
+           style="stroke-width:2.10717" />
+        <path
+           id="path45"
+           transform="matrix(1,0,0,1.00833,598,157)"
+           fill="#0070c0"
+           d="M 63.1579,68.7935 H 56.8421 V 91.9676 H 51.498 L 60,106.688 68.502,91.9676 h -5.3441 z"
+           style="stroke-width:2.10717" />
+      </g>
+    </g>
+  </g>
+  <path
+     id="path75"
+     fill-rule="evenodd"
+     fill="#ffc000"
+     d="M 115,87.590428 V 171.50543 H 88.293 v -4.67 H 110.18 V 92.406428 H 88.293 v -4.816 z m -110.33,4.816 h 21.891 v -4.816 H 0 v 83.915002 h 26.561 v -4.67 H 4.67 Z m 26.999,-35.901 H 83.185 V 171.50543 H 31.669 Z M 36.485,166.83543 H 78.369 V 61.175428 H 36.485 Z m 51.808,-7.589 H 107.7 v -4.816 H 88.293 Z m 0,-12.551 H 107.7 v -4.816 H 88.293 Z m 0,-14.739 H 107.7 v -4.816 H 88.293 Z m 0,-12.843 H 107.7 v -4.816 H 88.293 Z M 107.7,99.849428 H 88.293 v 4.816002 H 107.7 Z M 7.151,159.24643 h 19.41 v -4.816 H 7.151 Z m 0,-12.551 h 19.41 v -4.816 H 7.151 Z m 0,-14.739 h 19.41 v -4.816 H 7.151 Z m 0,-12.843 h 19.41 v -4.816 H 7.151 Z m 0,-14.448 h 19.41 V 99.849428 H 7.151 Z m 33.566,52.83 h 33.42 v -4.816 h -33.42 z m 0,-11.383 h 33.42 v -4.816 h -33.42 z m 0,-11.384 h 33.42 v -4.816 h -33.42 z m 0,-11.675 h 33.42 v -4.816 h -33.42 z m 0,-11.383 h 33.42 v -4.816 h -33.42 z m 0,-11.383 h 33.42 v -4.816002 h -33.42 z m 0,-11.821002 h 33.42 v -4.67 h -33.42 z m 0,-11.384 h 33.42 v -4.816 h -33.42 z" />
+  <text
+     xml:space="preserve"
+     id="text940"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect942);"
+     transform="translate(591.2898,9.5740681)"><tspan
+       x="52.199219"
+       y="30.657832"><tspan>DHCP Client</tspan></tspan></text>
+  <text
+     transform="translate(-38.45517,17.680118)"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect942-4);"
+     id="text940-6"
+     xml:space="preserve"><tspan
+       x="52.199219"
+       y="30.657832"><tspan>DHCP Server</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text940-7-2"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect942-3-2);fill:#1a428a;"
+     transform="translate(259.89246,22.868295)"
+     x="51.074219"
+     y="0"><tspan
+       x="121.28711"
+       y="30.657832"><tspan
+         style="text-align:center;text-anchor:middle;fill:#1a428a">Tier-1/Tier-0 Gateway</tspan></tspan></text>
+  <text
+     font-family="Metropolis-Regular"
+     font-size="16px"
+     id="text12"
+     x="170.47177"
+     y="89.111145">DHCP Request</text>
+  <text
+     font-family="Metropolis-Regular"
+     font-size="16px"
+     id="text14"
+     x="478.1171"
+     y="89.111145">DHCP Request</text>
+  <text
+     font-family="Metropolis-Regular"
+     font-size="16px"
+     id="text16"
+     x="180.24788"
+     y="143.18964">DHCP Reply</text>
+  <text
+     font-family="Metropolis-Regular"
+     font-size="16px"
+     id="text18"
+     x="477.14099"
+     y="143.18964">DHCP Relay</text>
+  <text
+     font-size="16px"
+     id="text22"
+     style="font-size:16px;font-family:Metropolis-Regular"
+     x="217.52406"
+     y="191.27594"><tspan
+       sodipodi:role="line"
+       id="tspan1174"
+       x="217.52406"
+       y="191.27594">DHCP Reply: IP address=192.168.100.15</tspan></text>
+  <text
+     font-family="Metropolis-Regular"
+     font-size="16px"
+     id="text24"
+     inkscape:transform-center-x="-20.448064"
+     inkscape:transform-center-y="2.0448064"
+     x="331.02847"
+     y="156.29588">DHCP Relay</text>
+  <g
+     id="g88"
+     transform="translate(-11.92352,8.1539381)">
+    <g
+       id="g86">
+      <line
+         fill="none"
+         stroke="#78be20"
+         stroke-miterlimit="10"
+         x1="134.60001"
+         y1="88.400002"
+         x2="339.39999"
+         y2="88.400002"
+         id="line80" />
+      <g
+         id="g84">
+        <polygon
+           fill="#78be20"
+           points="136,83.4 136,93.3 127.4,88.4 "
+           id="polygon82" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g98"
+     transform="translate(-11.92352,8.1539381)">
+    <g
+       id="g96">
+      <line
+         fill="none"
+         stroke="#78be20"
+         stroke-miterlimit="10"
+         x1="442.20001"
+         y1="88.400002"
+         x2="647.09998"
+         y2="88.400002"
+         id="line90" />
+      <g
+         id="g94">
+        <polygon
+           fill="#78be20"
+           points="443.7,83.4 443.7,93.3 435.1,88.4 "
+           id="polygon92" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g108"
+     transform="translate(-11.92352,8.1539381)">
+    <g
+       id="g106">
+      <line
+         fill="none"
+         stroke="#78be20"
+         stroke-miterlimit="10"
+         x1="127.4"
+         y1="115.4"
+         x2="332.20001"
+         y2="115.4"
+         id="line100" />
+      <g
+         id="g104">
+        <polygon
+           fill="#78be20"
+           points="330.8,110.4 330.8,120.4 339.4,115.4 "
+           id="polygon102" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g118"
+     transform="translate(-11.92352,8.1539381)">
+    <g
+       id="g116">
+      <line
+         fill="none"
+         stroke="#78be20"
+         stroke-miterlimit="10"
+         x1="435.10001"
+         y1="115.4"
+         x2="639.90002"
+         y2="115.4"
+         id="line110" />
+      <g
+         id="g114">
+        <polygon
+           fill="#78be20"
+           points="638.4,110.4 638.4,120.4 647.1,115.4 "
+           id="polygon112" />
+      </g>
+    </g>
+  </g>
+  <text
+     y="212.90628"
+     x="322.7605"
+     style="font-size:16px;font-family:Metropolis-Regular"
+     id="text22-2"
+     font-size="16px"><tspan
+       y="212.90628"
+       x="322.7605"
+       id="tspan1174-4"
+       sodipodi:role="line">Gateway=192.168.100.1</tspan></text>
+  <text
+     y="13.476371"
+     x="220.6156"
+     style="font-size:16px;font-family:Metropolis-Regular"
+     id="text22-20"
+     font-size="16px"><tspan
+       y="13.476371"
+       x="220.6156"
+       id="tspan1174-3"
+       sodipodi:role="line" /></text>
+  <text
+     xml:space="preserve"
+     id="text1238"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1240);"
+     transform="translate(115.10391,-195.09533)"><tspan
+       x="12.044922"
+       y="207.32971"><tspan>DHCP Request: Can I get an IP address and default gateway?</tspan></tspan></text>
+</svg>

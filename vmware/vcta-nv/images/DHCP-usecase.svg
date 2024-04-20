@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="DHCP-usecase.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 465.2 145.4"
+   viewBox="0 0 465.2 145.4"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata72"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs70" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="154"
+   inkscape:cy="72.7"
+   inkscape:cx="232.6"
+   inkscape:zoom="2.3581255"
+   showgrid="false"
+   id="namedview68"
+   inkscape:window-height="1033"
+   inkscape:window-width="1407"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<rect
+   id="rect10"
+   height="145.4"
+   width="465.2"
+   fill="#FFFFFF" />
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="12px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 29.7775 43.5607)"
+   id="text186">Computer</text>
+<text
+   style="-inkscape-font-specification:Metropolis;font-family:Metropolis;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   font-size="12px"
+   font-family="'Metropolis-Regular'"
+   transform="matrix(1 0 0 1 382.5867 16.8107)"
+   id="text186_1_">DHCP Server</text>
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis;stroke-width:1"
+   y="54.383999"
+   x="183.58479"
+   font-size="12px"
+   font-family="Metropolis-Regular"
+   id="text186_2_">May I have an IP address?</text>
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:Metropolis"
+   font-size="12px"
+   font-family="'Metropolis-Regular'"
+   transform="translate(180.4686,119.9454)"
+   id="text186_4_">Your IP address is 192.168.1.1.</text>
+<g
+   id="g24">
+	<g
+   id="g22">
+		<line
+   id="line16"
+   y2="62.1"
+   x2="358.1"
+   y1="62.1"
+   x1="142.2"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#218FCF"
+   fill="none" />
+		<g
+   id="g20">
+			<polygon
+   id="polygon18"
+   points="356.7,67.1 365.3,62.1 356.7,57.1    "
+   fill="#218FCF" />
+		</g>
+	</g>
+</g>
+<g
+   id="g34">
+	<g
+   id="g32">
+		<line
+   id="line26"
+   y2="103.6"
+   x2="365.3"
+   y1="103.6"
+   x1="149.4"
+   stroke-miterlimit="10"
+   stroke-width="2"
+   stroke="#218FCF"
+   fill="none" />
+		<g
+   id="g30">
+			<polygon
+   id="polygon28"
+   points="150.8,108.5 142.2,103.6 150.8,98.6    "
+   fill="#218FCF" />
+		</g>
+	</g>
+</g>
+<g
+   id="g56">
+	<path
+   id="path36"
+   d="M432.3,135.8h-23.8V28.6h23.8V135.8 M435.3,138.8V25.6h-29.8v113.1H435.3L435.3,138.8z"
+   fill="#3E4044" />
+	<path
+   id="path38"
+   d="M424,82L424,82c0,1.8-1.3,3.2-3,3.6c-1.9,0.4-3.8-1-4.2-3c0-0.2,0-0.4,0-0.6c0-1.8,1.3-3.2,3-3.6   c1.9-0.4,3.8,1,4.2,3C424,81.5,424,81.7,424,82 M426.3,82c0-0.4,0-0.7-0.1-1c-0.6-3.2-3.6-5.5-6.9-4.9c-2.9,0.5-5,3-5,5.8   c0,0.4,0,0.7,0.1,1c0.6,3.2,3.6,5.5,6.9,4.9C424.3,87.3,426.3,84.8,426.3,82L426.3,82z"
+   fill="#3E4044" />
+	<g
+   id="g46">
+		<rect
+   id="rect40"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="33.7"
+   x="414.4" />
+		<rect
+   id="rect42"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="39.7"
+   x="414.4" />
+		<rect
+   id="rect44"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="45.6"
+   x="414.4" />
+	</g>
+	<g
+   id="g54">
+		<rect
+   id="rect48"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="114"
+   x="414.4" />
+		<rect
+   id="rect50"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="119.9"
+   x="414.4" />
+		<rect
+   id="rect52"
+   height="3"
+   width="11.9"
+   fill="#3E4044"
+   y="125.9"
+   x="414.4" />
+	</g>
+</g>
+<g
+   id="Devices__x2B__Hardware_Expanded_AQ_1_">
+	<g
+   id="g64">
+		<path
+   id="path58"
+   d="M71.1,135c-1.6-1.1-5.6-2.7-7.4-3.4l-1.2-12.7H60l1.4,14.5l0.7,0.3c1.2,0.5,4.1,1.6,6,2.5H40.8    c1.9-0.9,4.8-2.1,6-2.5l0.7-0.3l1.9-14.5h-2.5l-1.7,12.7c-1.7,0.7-5.8,2.3-7.4,3.4c-0.7,0.5-1.1,1.4-0.8,2.3    c0.3,0.8,1,1.4,1.9,1.4h31c0.9,0,1.6-0.6,1.9-1.4C72.1,136.4,71.8,135.5,71.1,135z"
+   fill="#1E4488" />
+		<path
+   id="path60"
+   d="M96.9,51.9H11.7C9.1,51.9,7,54,7,56.7v54.2c0,2.7,2.1,4.8,4.8,4.8h85.3c2.7,0,4.9-2.2,4.9-5V57.1    C102,54.3,99.7,51.9,96.9,51.9z M99.5,110.8c0,1.4-1.1,2.5-2.4,2.5H11.8c-1.3,0-2.3-1-2.3-2.3V56.7c0-1.3,1-2.3,2.2-2.3h85.2    c1.5,0,2.7,1.2,2.7,2.7L99.5,110.8L99.5,110.8z"
+   fill="#1E4488" />
+		<rect
+   id="rect62"
+   height="2.5"
+   width="75"
+   fill="#1E4488"
+   y="102.7"
+   x="17.2" />
+	</g>
+</g>
+</svg>
