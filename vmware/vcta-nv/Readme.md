@@ -17,7 +17,7 @@ Se inscreva no Blog, Instagram e no Youtube!
 
 # Informações importantes
 
-Prova prevista para ser realizada no dia 21/04/2024
+Prova realizada no dia 21/04/2024
 
 [Course VMware Virtual Cloud Network - Core Technical Skills](#)\
 [Datasheet Prova](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/datasheet/vmw-virtual-cloud-network.pdf)
