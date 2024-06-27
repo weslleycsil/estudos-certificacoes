@@ -10,4 +10,5 @@
 | Network   |      -     | VMware           | VCP-NV                                               | -          | -            |
 | Infra     |      -     | VMware           | VCTA-DCV                                             | 08/12/2023 |      Sim     |
 | Infra     |      -     | VMware           | VCP-DCV                                              | 14/04/2024 | Sim |
+| Infra     |      -     | Nutanix          | Nutanix Certified Associate 6.5 | 20/07/2024 | Previsto |
 | Infra     |      -     | Nutanix          | Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI) 6.5 | 28/07/2024 | Previsto |
