@@ -9,9 +9,9 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [VMWare VCTA-NV](vmware/vcta-nv)
 
-[Cisco CCNA 200-301](#) (Em Breve)
+[Cisco CCNA 200-301](#)
 
-[Cisco CCNP DCCOR 350-601](cisco)
+[Cisco CCNP DCCOR 350-601](https://github.com/weslleycsil/cisco-ccnp-350-601)
 
 [Cisco CCNP DCACI 300-620](cisco)
 
@@ -32,3 +32,5 @@ Meus Projetos: ⤵️
     <img alt="Inscritos Canal Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9YAyen5LMa_o2oeJ5bcmdg?label=INFRAANTENADA&logo=Youtube&style=for-the-badge">
   </a>
 </p>
+
+git submodule add https://github.com/<user>/rock rock
