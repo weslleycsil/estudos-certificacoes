@@ -11,6 +11,8 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [Cisco CCNA 200-301](#) (Em Breve)
 
+[Cisco CCNP DCCOR 350-601](cisco/ccnp-350-601/)
+
 Acompanhe o [Calendário das certificações](certs_schedule.md) e fique por dentro dos meus movimentos de estudo.
 
 Meus Projetos: ⤵️
