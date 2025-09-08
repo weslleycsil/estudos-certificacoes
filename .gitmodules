@@ -1,3 +1,6 @@
 [submodule "cisco/cisco_aci"]
 	path = cisco/cisco_aci
 	url = https://github.com/weslleycsil/cisco_aci
+[submodule "cisco/ccnp-350-601"]
+	path = cisco/ccnp-350-601
+	url = https://github.com/weslleycsil/cisco-ccnp-350-601
