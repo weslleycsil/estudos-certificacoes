@@ -13,7 +13,7 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [Cisco CCNP DCCOR 350-601](cisco)
 
-[Cisco CCNP 350-620]
+[Cisco CCNP DCACI 300-620](cisco)
 
 Acompanhe o [Calendário das certificações](certs_schedule.md) e fique por dentro dos meus movimentos de estudo.
 
@@ -31,4 +31,4 @@ Meus Projetos: ⤵️
   <a href="http://youtube.com/infraantenada?sub_confirmation=1">
     <img alt="Inscritos Canal Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9YAyen5LMa_o2oeJ5bcmdg?label=INFRAANTENADA&logo=Youtube&style=for-the-badge">
   </a>
-</p> 
+</p>
