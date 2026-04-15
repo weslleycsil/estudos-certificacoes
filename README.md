@@ -15,6 +15,8 @@ Repositório de material de Estudo para Certificações feitas por mim.
 
 [Cisco CCNP DCACI 300-620](cisco)
 
+[NetApp Certified Data Administrator NCDA NS0-165 ](https://github.com/weslleycsil/netapp-ncda-ns0-165)
+
 Acompanhe o [Calendário das certificações](certs_schedule.md) e fique por dentro dos meus movimentos de estudo.
 
 Meus Projetos: ⤵️
