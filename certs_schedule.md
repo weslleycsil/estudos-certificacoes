@@ -13,7 +13,7 @@
 | Infra     |      -     | VMware           | VCP-DCV                                              | 14/04/2024 | Sim |
 | Infra     |      -     | Nutanix          | Nutanix Certified Associate 6.5                      | - | Previsto |
 | Infra     |      -     | Nutanix          | Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI) 6.5 | 2027 | Previsto |
-| Infra     |      0     | Netapp           | NetApp Certified Data Administrator NCDA - NS0-165     | 17/04/2026 | Previsto |
-| Infra     |      2     | Netapp           | NetApp Certified Implementation Engineer—SAN Specialist - NS0-521 | 2026 | Previsto |
+| Infra     |      -     | Netapp           | NetApp Certified Data Administrator NCDA - NS0-165     | 16/04/2026 | Sim |
+| Infra     |      2     | Netapp           | NetApp Certified Implementation Engineer—SAN Specialist NCIE - NS0-521 | 2026 | Previsto |
 | Infra     |      2     | Netapp           | Cisco and NetApp Certified FlexPod Design Specialist | 2026 | Previsto |
 | Infra     |      2     | Netapp           | Cisco and NetApp Certified FlexPod Implementation and Administration Specialist | 2026 | Previsto |
